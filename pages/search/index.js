@@ -111,7 +111,7 @@ export default function Post({ allPosts, preview }) {
                 )}
                 path={mdiClose}
                 size={1}
-                color={searchTerm ? "blue" : "white"}
+                color={searchTerm ? "gold" : "white"}
               />
             </div>
             {posts.length > 0 ? (

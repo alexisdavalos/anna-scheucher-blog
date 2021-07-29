@@ -16,7 +16,7 @@ export default function Footer({ typedState }) {
     setTyped(true);
   }, []);
   return (
-    <>
+    <div className="bg-yellow-500">
       <footer className="bg-accent-1 border-t border-accent-2 font-serif">
         <Container>
           <div className="py-16 flex flex-col lg:flex-row items-center">
@@ -40,49 +40,36 @@ export default function Footer({ typedState }) {
                 target="_blank"
                 rel="noreferrer"
               >
-                Contact Me 💬 
+                Contact Me 💬
               </a>
             </div>
           </div>
         </Container>
       </footer>
-      <footer className="bg-black border-t border-accent-2">
+      <footer className="bg-gradient-to-r from-yellow-700 border-t border-accent-2">
         <div className="py-12 flex items-center justify-center text-center flex-col">
           <Image
-            width="90px"
-            height="90px"
-            src="/favicons/android-chrome-512x512.png"
+            width="150px"
+            height="150px"
+            src="/favicons/transparent-icon.png"
             alt="Blog Icon"
-            className="w-16 md:w-16 lg:w-32 color:black"
           />
-          <p className="mb-10 mt-10 text-white w-3/4">
-            Built by{" "}
-            <a
-              className="underline font-bold"
-              href={AUTHOR_GITHUB_LINK}
-              target="_blank"
-              rel="noreferrer"
-            >
-              Alexis Davalos
-            </a>
-            . The source code is licensed under open source{" "}
-            <a
-              className="underline font-bold"
-              href={LICENSE_LINK}
-              target="_blank"
-              rel="noreferrer"
-            >
-              MIT
-            </a>{" "}
-            License.{" "}
-          </p>
-          <Link href="/search?">
-            <a className="text-white cursor-pointer my-4 text-lg font-semibold font-serif">
-              Search The Blog 🔎
-            </a>
-          </Link>
         </div>
       </footer>
-    </>
+      <section className="bg-black text-white flex justify-center items-center">
+        <p className="my-4 text-white mx-auto">
+          The source code is licensed under open source{" "}
+          <a
+            className="underline font-bold"
+            href={LICENSE_LINK}
+            target="_blank"
+            rel="noreferrer"
+          >
+            MIT
+          </a>{" "}
+          License.{" "}
+        </p>
+      </section>
+    </div>
   );
 }
