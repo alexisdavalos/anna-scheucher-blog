@@ -1,0 +1,39 @@
+.bottomShadow {
+  box-shadow: inset 0px -8px 0px rgb(167 28 6 / 12%);
+}
+
+//Animations CSS
+@media (prefers-reduced-motion: no-preference) {
+  //Hue Rotation Class
+  .hueRotate {
+    animation-name: hue-filter;
+    -webkit-animation-name: hue-filter;
+    animation-duration: 30s;
+    -webkit-animation-duration: 30s;
+    animation-timing-function: linear;
+    -webkit-animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+  }
+}
+
+// Hue Filter Key Frames
+@keyframes hue-filter {
+  from {
+    filter: hue-rotate(-360deg);
+  }
+
+  to {
+    filter: hue-rotate(360deg);
+  }
+}
+
+@-webkit-keyframes hue-filter {
+  from {
+    -webkit-filter: hue-rotate(-360deg);
+  }
+
+  to {
+    -webkit-filter: hue-rotate(360deg);
+  }
+}

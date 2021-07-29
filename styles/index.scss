@@ -1,0 +1,60 @@
+@import "./highlight-js-10-1-2.module.scss";
+
+@tailwind base;
+
+/* Write your own custom base styles here */
+
+/* Start purging... */
+@tailwind components;
+/* Stop purging. */
+
+/* Write you own custom component styles here */
+
+/* Start purging... */
+@tailwind utilities;
+/* Stop purging. */
+
+/* Your own custom utilities */
+html {
+  scroll-behavior: smooth;
+}
+
+// About Me Blog Post Styles
+h3 {
+  font-weight: bold;
+}
+
+.w-full > h3 {
+  font-weight: bold;
+}
+
+.w-full > h3 + p {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+  img {
+    margin-right: 0.1rem;
+    margin-top: 0.25rem;
+  }
+}
+
+.flex + p + p {
+  a {
+    img {
+      width: 80%;
+      @media screen and (max-width: 640px) {
+        width: 100%;
+      }
+      filter: saturate(0.7);
+    }
+  }
+}
+
+.flex + p > img {
+  width: 80%;
+  @media screen and (max-width: 640px) {
+    width: 100%;
+  }
+  filter: saturate(0.7);
+}
