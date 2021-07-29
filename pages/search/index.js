@@ -99,7 +99,7 @@ export default function Post({ allPosts, preview }) {
               <input
                 type="search"
                 placeholder="🔎  Search for..."
-                className="w-full h-4 p-6 my-6 bg-gray-100 border-gray-300 transition-all duration-500 ease-in-out"
+                className="w-full h-4 p-6 my-6 bg-gray-100 border-2 rounded-md focus:outline-none focus:ring focus:border-yellow-400"
                 value={searchTerm}
                 onChange={handleChange}
               />
