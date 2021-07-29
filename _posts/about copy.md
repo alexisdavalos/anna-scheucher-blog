@@ -13,13 +13,14 @@ topics:
   - "health"
   - "routine"
   - "tips"
+  - "personal" 
 ---
 
-<p class="text-left font-serif">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in...</p>
+<p class="text-left font-serif">A little introduction on who I am and what I am here to do!</p>
 
 ##
 
-<h3 class="font-serif" align="center">⚡️ How To Contact Me ⚡️</h3>
+<h3 class="font-serif" align="center">Get in Contact with me :) </h3>
 <p class="font-serif" align="center">
   [
   <a class="text-gray-700  font-bold hover:underline hover:text-blue-500 duration-200 transition-colors" href="https://www.twitter.com/yourlinkhere/" target="_blank" rel="noreferrer">Twitter</a>
