@@ -7,36 +7,64 @@ author:
   name: Anna Scheucher
   picture: "/assets/blog/authors/anna.png"
 ogImage:
-  url: "/assets/blog/posts/better-daily-routine.png"
+  url: "/assets/blog/posts/about me banner.jpeg"
 topics:
   - "wellness"
   - "health"
   - "routine"
   - "tips"
+  - "about me"
 ---
 
-<p class="text-left font-serif">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in...</p>
+<p class="text-left font-serif">Hey! 
 
-##
+Let me introduce myself a little bit: 
 
-<h3 class="font-serif" align="center">⚡️ How To Contact Me ⚡️</h3>
-<p class="font-serif" align="center">
-  [
-  <a class="text-gray-700  font-bold hover:underline hover:text-blue-500 duration-200 transition-colors" href="https://www.twitter.com/yourlinkhere/" target="_blank" rel="noreferrer">Twitter</a>
-  |
-  <a class="text-gray-700  font-bold hover:underline hover:text-blue-500 duration-200 transition-colors" href="https://linkedin.com/in/yourlinkhere" target="_blank" rel="noreferrer">LinkedIn</a>
-  |
-  <a class="text-gray-700  font-bold hover:underline hover:text-blue-500 duration-200 transition-colors" href="mailto:yourlinkhere@gmail.com" target="_blank" rel="noreferrer">Email</a>
-  ]
-  
+My name is Anna and I’m a Medical Massage Therapist. In connection with my profession, I love everything that has to do with Health, Wellness and Fitness and I spend a big part of my time educating myself, teaching, or simply living by the principles I talk about. 
+
+I believe in a holistic approach to health. If you don’t know what that means, holistic health is simply the idea that the Mind, the Body and the Soul/Spirit are involved to be an all round healthy person. 
+
+Through personal experience I can say that if one of these aspects is suffering, nothing you can do about the other two will make you feel wholly well. 
+
+My mission is to help people reach an equilibrium where they feel well in every aspect of their life. 
+
+I’m also trained in Trauma-Informed Healing and help people to release their trauma (or PTSD) through various techniques, like Inner-Child Healing, Reparenting, Mindfulness & Meditative Techniques, Nervous System Regulation and Somatic Experiencing. 
+
+Issues I might be able to help you with include Heartbreak Recovery, Abandonment Wounds, setting healthy boundaries, adapting to a healthier lifestyle and finding love in yourself and the world. 
 </p>
 
 ##
 
-<p class="text-left font-serif">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in..Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in..</p>
+<h3 class="font-serif" align="center">Contact me! :)</h3>
+<p class="font-serif" align="center">
+  [
+  <a class="text-gray-700  font-bold hover:underline hover:text-blue-500 duration-200 transition-colors" href="https://www.instagram.com/auroradelsol_/" target="_blank" rel="noreferrer">Instagram</a>
+  |
+  <a class="text-gray-700  font-bold hover:underline hover:text-blue-500 duration-200 transition-colors" href="mailto:ascheucher.healing@gmail.com" target="_blank" rel="noreferrer">Email</a>
+  ]
+  
+</p>
+<br/>
 
-![](https://source.unsplash.com/1920x1080/?nature,landscape)
+
+<p class="text-left font-serif">A few more personal facts about me: 
+
+- I love anything nature. My favorite place to be is outside, whether that’s the forest I grew up with, the ocean, the mountains of my home country, the jungle, or simply a patch of grass in the nearest park. It’s where I feel most alive and myself and so I try to make as much time for that as possible. 
+
+- Just like loving to be outside, my body constantly craves movement. I love trying out new sports and am always down for an adventure, but my favorites include running, hiking, skiing, snowboarding, skateboarding and the gym. 
+
+- You will almost always catch me with a book (or my Kindle for that matter). I love reading. My favorite topics include
+Philosophy 
+Self-Improvement (Finance, Productivity,...)
+Spirituality
+Health 
+
+- One of my biggest passions is traveling. I have been fortunate enough to have been to almost 20 countries in my life already, and I’ve lived in 3 so far. Something about discovering new places and cultures, and meeting new people sparks a special joy in my heart, that is hard to compare to anything else. 
+
+- Kind of connected to the travel point, I love learning languages. Apart from my mother tongue German, I speak English, French, a little Russian and some Spanish. 
+
+
 
 ##
 
-<p class="text-left font-serif">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in..Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in..</p>
+<p class="text-left font-serif"></p>
