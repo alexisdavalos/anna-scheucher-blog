@@ -49,20 +49,21 @@ Issues I might be able to help you with include Heartbreak Recovery, Abandonment
 
 <p class="text-left font-serif">A few more personal facts about me: 
 
-- I love anything nature. My favorite place to be is outside, whether that’s the forest I grew up with, the ocean, the mountains of my home country, the jungle, or simply a patch of grass in the nearest park. It’s where I feel most alive and myself and so I try to make as much time for that as possible. 
+<ul class="list-disc">
+  <li>I love anything nature. My favorite place to be is outside, whether that’s the forest I grew up with, the ocean, the mountains of my home country, the jungle, or simply a patch of grass in the nearest park. It’s where I feel most alive and myself and so I try to make as much time for that as possible. </li>
 
-- Just like loving to be outside, my body constantly craves movement. I love trying out new sports and am always down for an adventure, but my favorites include running, hiking, skiing, snowboarding, skateboarding and the gym. 
+<li>Just like loving to be outside, my body constantly craves movement. I love trying out new sports and am always down for an adventure, but my favorites include running, hiking, skiing, snowboarding, skateboarding and the gym. </li>
 
-- You will almost always catch me with a book (or my Kindle for that matter). I love reading. My favorite topics include
+<li>You will almost always catch me with a book (or my Kindle for that matter). I love reading. My favorite topics include
 Philosophy 
 Self-Improvement (Finance, Productivity,...)
 Spirituality
-Health 
+Health </li>
 
-- One of my biggest passions is traveling. I have been fortunate enough to have been to almost 20 countries in my life already, and I’ve lived in 3 so far. Something about discovering new places and cultures, and meeting new people sparks a special joy in my heart, that is hard to compare to anything else. 
+<li>One of my biggest passions is traveling. I have been fortunate enough to have been to almost 20 countries in my life already, and I’ve lived in 3 so far. Something about discovering new places and cultures, and meeting new people sparks a special joy in my heart, that is hard to compare to anything else. </li>
 
-- Kind of connected to the travel point, I love learning languages. Apart from my mother tongue German, I speak English, French, a little Russian and some Spanish. 
-
+<li>Kind of connected to the travel point, I love learning languages. Apart from my mother tongue German, I speak English, French, a little Russian and some Spanish. </li>
+</ul>
 
 
 ##
