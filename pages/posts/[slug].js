@@ -29,7 +29,7 @@ export default function Post({ post, morePosts, preview }) {
           <>
             <article className="pb-16 mt-8 md:mt-16 border-b-4">
               <Head>
-                <title>{post.title} | Stoic.Dev Blog</title>
+                <title>{post.title} | Anna Scheucher</title>
                 <meta property="og:image" content={post.ogImage.url} />
                 <meta property="og:title" content={post.title} />
                 <meta property="og:date" content={post.date} />
