@@ -1,6 +1,6 @@
 ---
-title: "A Quick Intro About Me"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in..."
+title: "A Little Info About Me"
+excerpt: "Here you will find a quick introduction and a few facts about me :)"
 coverImage: "/assets/blog/posts/about me banner.jpeg"
 date: "2020-09-17"
 author:
