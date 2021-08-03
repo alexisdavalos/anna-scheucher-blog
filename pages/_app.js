@@ -1,12 +1,11 @@
 import "../styles/index.scss";
-import UserProvider from "../lib/userContext";
 import { useRouter } from "next/router";
 import Head from "next/head";
 
 export default function MyApp({ Component, pageProps }) {
 	const router = useRouter();
 	return (
-		<UserProvider>
+		<>
 			<Head>
 				<link
 					rel="canonical"
@@ -14,6 +13,6 @@ export default function MyApp({ Component, pageProps }) {
 				/>
 			</Head>
 			<Component {...pageProps} />
-		</UserProvider>
+		</>
 	);
 }

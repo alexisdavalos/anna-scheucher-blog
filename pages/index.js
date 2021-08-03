@@ -18,6 +18,7 @@ export default function Index({ allPosts }) {
 	const [darkMode, setDarkMode] = useDarkMode("dark", true);
 
 	useEffect(() => {
+		console.log
 		const windowExists = typeof window !== undefined;
 		const noTheme = window.localStorage.getItem("dark") === null;
 		//In case hook fails and can't set token -- defaults to dark theme
