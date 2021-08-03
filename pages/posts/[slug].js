@@ -115,7 +115,7 @@ export default function Post({ post, morePosts, preview, data }) {
                                 keywords={post.content}
                             />
                             <Head>
-                                <title>{post.title} | Agamov.Dev Blog</title>
+                                <title>{post.title} | Anna Scheucher Blog</title>
                                 <meta
                                     name="description"
                                     content={post.excerpt}
