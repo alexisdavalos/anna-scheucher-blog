@@ -75,7 +75,7 @@ After carefully reviewing all the information, I decided to give it a try myself
 
 For my personal consumption, I choose to drink one glass of it a day, usually first thing in the morning. That way I ensure not to overdo it and it gives me the habit of drinking a big glass of water right off the bat, which is always a plus :) 
 
-![liquid chlorophyll in water](https://firebasestorage.googleapis.com/v0/b/annascheucher-25389.appspot.com/o/IMG_9470.JPG?alt=media&token=1ea6f5b4-e363-491c-9d82-ef4180d7b6e9)
+![alt text](https://firebasestorage.googleapis.com/v0/b/annascheucher-25389.appspot.com/o/IMG_9470.JPG?alt=media&token=1ea6f5b4-e363-491c-9d82-ef4180d7b6e9)
 
 Chlorophyll seems to differ slightly in taste, depending on which brand you get. Most people report either a very earthy taste, or a very minty one. 
 
