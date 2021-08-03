@@ -4,8 +4,8 @@ export default function Meta() {
     return (
         <Head>
             <title>
-                Agamov.Dev - A information hub for topics like: Technology,
-                Crypto, Coding, and Design
+                Anna Scheucher - A information hub for topics like: Holistic Health,
+             Wellness, Fitness, Productivity and more!
             </title>
             <meta
                 name="description"
