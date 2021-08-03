@@ -6,11 +6,9 @@ const Layout = dynamic(import("../components/layout"));
 
 export default function About({ post }) {
     return (
-        <>
-            <Layout>
-                <PostBody content={post.content} />
-            </Layout>
-        </>
+        <Layout>
+            <PostBody content={post.content} />
+        </Layout>
     );
 }
 
