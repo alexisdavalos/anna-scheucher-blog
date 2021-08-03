@@ -1,13 +1,14 @@
 import dynamic from "next/dynamic";
 import { useRouter } from "next/router";
-import { useEffect, useState } from "react";
+import { useEffect, useState, useContext } from "react";
 import { ArticleJsonLd } from "next-seo";
-import { getPostBySlug, getAllPosts } from "../../lib/staticApi.js";
-import markdownToHtml from "../../lib/markdownToHtml";
-import axiosInstance from "../../lib/axiosConfig.js";
 import ErrorPage from "next/error";
 import Head from "next/head";
 import readingTime from "reading-time";
+import { DarkModeContext } from "../../lib/darkModeContext.js";
+import markdownToHtml from "../../lib/markdownToHtml";
+import axiosInstance from "../../lib/axiosConfig.js";
+import { getPostBySlug, getAllPosts } from "../../lib/staticApi.js";
 
 const PostTitle = dynamic(import("../../components/post-title"));
 const Layout = dynamic(import("../../components/layout"));
@@ -23,6 +24,8 @@ export default function Post({ post, morePosts, preview, data }) {
     const { text } = readingTime(post.content);
     const [views, setViews] = useState(post.views);
     const [readTime, setReadTime] = useState(text);
+    const { darkMode, setDarkMode } = useContext(DarkModeContext);
+
     const baseURL =
         process.env.NODE_ENV === "development"
             ? "http://localhost:3000"
@@ -95,7 +98,7 @@ export default function Post({ post, morePosts, preview, data }) {
     }
 
     return (
-        <Layout preview={preview}>
+        <Layout preview={preview} darkMode={darkMode} setDarkMode={setDarkMode}>
             <Container>
                 <Header />
                 {router.isFallback ? (

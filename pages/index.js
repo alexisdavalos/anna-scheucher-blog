@@ -1,9 +1,9 @@
 import dynamic from "next/dynamic";
 import Head from "next/head";
+import { useContext } from "react";
 import "highlight.js/styles/github.css";
 import { getAllPosts } from "../lib/staticApi";
-import { useEffect } from "react";
-import { useDarkMode } from "../lib/useDarkMode";
+import { DarkModeContext } from "../lib/darkModeContext";
 import { HOME_OG_IMAGE_URL } from "../lib/constants";
 const Container = dynamic(import("../components/container"));
 const MoreStories = dynamic(import("../components/more-stories"));
@@ -14,17 +14,7 @@ const Layout = dynamic(import("../components/layout"));
 export default function Index({ allPosts }) {
     const heroPost = allPosts[0];
     const morePosts = allPosts.slice(1);
-    //Initialize dark mode hook
-    const [darkMode, setDarkMode] = useDarkMode("dark", false);
-
-    useEffect(() => {
-        const windowExists = typeof window !== undefined;
-        const noTheme = window.localStorage.getItem("dark") === null;
-        //In case hook fails and can't set token -- defaults to dark theme
-        if (windowExists && noTheme) {
-            setDarkMode(false);
-        }
-    });
+    const { darkMode, setDarkMode } = useContext(DarkModeContext);
     return (
         <>
             <Layout darkMode={darkMode} setDarkMode={setDarkMode}>
