@@ -15,14 +15,14 @@ export default function Index({ allPosts }) {
     const heroPost = allPosts[0];
     const morePosts = allPosts.slice(1);
     //Initialize dark mode hook
-    const [darkMode, setDarkMode] = useDarkMode("dark", true);
+    const [darkMode, setDarkMode] = useDarkMode("dark", false);
 
     useEffect(() => {
         const windowExists = typeof window !== undefined;
         const noTheme = window.localStorage.getItem("dark") === null;
         //In case hook fails and can't set token -- defaults to dark theme
         if (windowExists && noTheme) {
-            setDarkMode(true);
+            setDarkMode(false);
         }
     });
     return (
