@@ -65,6 +65,5 @@ Health </li>
 <li>Kind of connected to the travel point, I love learning languages. Apart from my mother tongue German, I speak English, French, a little Russian and some Spanish. </li>
 </ul>
 
-##
 
 <p class="text-left font-serif"></p>
