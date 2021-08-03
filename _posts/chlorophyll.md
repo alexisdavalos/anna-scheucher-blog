@@ -63,7 +63,9 @@ According to a number of dermatologists, Chlorophyll could, in fact, be quite da
 
 In a Youtube video, dermatologist Dr Dray talks about the possible risks of Chlorophyll. There is a possibility that Chlorophyll may cause photosensitivity in certain people. What that means, is essentially a sensitivity to light which in turn is a skin condition that causes redness and blistering. When we believe what this doctor says, simply stopping the consumption of chlorophyll may not solve the problem and it could take months to get back to a normal, healthy skin.
 
-You can watch the video here <iframe width="560" height="315" src="https://www.youtube.com/embed/a87sHnm9i8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+You can watch the video here:
+
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/a87sHnm9i8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 But this condition is mostly due to an over-consumption of the green pigment. Chlorophyll in and of itself is not evil. In fact, we consume it almost every day, when we eat green plants and vegetables. 
 
@@ -72,6 +74,8 @@ But this condition is mostly due to an over-consumption of the green pigment. Ch
 After carefully reviewing all the information, I decided to give it a try myself. 
 
 For my personal consumption, I choose to drink one glass of it a day, usually first thing in the morning. That way I ensure not to overdo it and it gives me the habit of drinking a big glass of water right off the bat, which is always a plus :) 
+
+![liquid chlorophyll in water](https://firebasestorage.googleapis.com/v0/b/annascheucher-25389.appspot.com/o/IMG_9470.JPG?alt=media&token=1ea6f5b4-e363-491c-9d82-ef4180d7b6e9)
 
 Chlorophyll seems to differ slightly in taste, depending on which brand you get. Most people report either a very earthy taste, or a very minty one. 
 
