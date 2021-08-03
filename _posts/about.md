@@ -39,7 +39,7 @@ Issues I might be able to help you with include Heartbreak Recovery, Abandonment
 <h3 class="font-serif" align="center">Contact me! :)</h3>
 <p class="font-serif" align="center">
   [
-  <a class="text-gray-700  font-bold hover:underline hover:text-blue-500 duration-200 transition-colors" href="https://www.instagram.com/auroradelsol_/" target="_blank" rel="noreferrer">Instagram</a>
+  <a class="text-gray-700  font-bold hover:underline hover:text-blue-500 duration-200 transition-colors" href="https://www.instagram.com/anna.scheucher/" target="_blank" rel="noreferrer">Instagram</a>
   |
   <a class="text-gray-700  font-bold hover:underline hover:text-blue-500 duration-200 transition-colors" href="mailto:ascheucher.healing@gmail.com" target="_blank" rel="noreferrer">Email</a>
   ]
