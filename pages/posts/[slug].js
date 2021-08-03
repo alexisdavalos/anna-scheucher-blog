@@ -198,29 +198,7 @@ export async function getStaticProps({ params }) {
 
 	const content = await markdownToHtml(curPost.content || "");
 
-	try {
-		const res = await axiosInstance.get(`/api/posts/fetch/${params.slug}`);
-
-		// Found post data in server
-		if (res && res.data.data !== null) {
-			data = res.data.data;
-		}
-
-		// Could not find post data, create it from static file
-		if (res && res.data.data === null) {
-			data = { ...curPost, content, views: 1 };
-			const res = await axiosInstance.post(`/api/posts/update/${params.slug}`, {
-				data,
-			});
-			if (res && res.data.data) {
-				data = res.data.data;
-			}
-		}
-	} catch (error) {
-		console.log(error);
-		throw new Error(error)
-	}
-  return data ? {
+  return {
 		props: {
 			data,
 			post: {
@@ -230,12 +208,7 @@ export async function getStaticProps({ params }) {
 			},
 			morePosts: [...otherPosts],
 		},
-	} : {
-    redirect: {
-      destination: "/",
-      permanent: false,
-    },
-  };
+	}
 }
 
 // Note: For use with getStaticProps
