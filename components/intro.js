@@ -21,6 +21,30 @@ export default function Intro({ darkMode, setDarkMode, children }) {
                         </a>
                     </Link>
                     <div className="flex flex-row justify-center items-center space-x-4 my-8">
+                        <Link href="/" passHref>
+                            <a className="hover:underline cursor-pointer text-lg font-semibold tracking-tighter leading-tight pr-2">
+                                Home
+                            </a>
+                        </Link>
+                        <Link href="/about" passHref>
+                            <a className="hover:underline cursor-pointer text-lg font-semibold tracking-tighter leading-tight pr-2">
+                                About
+                            </a>
+                        </Link>
+                        <Link
+                            href="mailto:ascheucher.healing@gmail.com"
+                            passHref
+                        >
+                            <a
+                                target="_blank"
+                                rel="noreferrer"
+                                className="hover:underline cursor-pointer text-lg font-semibold tracking-tighter leading-tight pr-2"
+                            >
+                                Contact
+                            </a>
+                        </Link>
+                    </div>
+                    <div className="flex flex-row justify-center items-center space-x-4 my-8">
                         {children}
                     </div>
                 </ul>
