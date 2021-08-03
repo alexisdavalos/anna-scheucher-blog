@@ -34,12 +34,12 @@ Chlorophyll - you might remember that word from a biology lesson back in middle 
 According to a variety of studies, Chlorophyll may be beneficial for skin conditions, body odors, wound healing, as well as fighting certain kinds of cancer! Here is a list of benefits, proven by studies:
 
 <ul class="list-disc">
-<li>Anti-Aging (as a topical treatment - find the study <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4966572/">here</a> 
-<li>Acne treatment (as a topical treatment - <a href="https://jddonline.com/articles/dermatology/S1545961615P0589X">see the study</a> 
-<li>Blood deficiency disorders (for example anemia- <a href="https://www.semanticscholar.org/paper/A-pilot-study-on-wheat-grass-juice-for-its-and-on-Chauhan/73f2bb7c0b1129b5da66ca284eb2294d956fa9d2?p2df">the study</a> conducted was not done with Chlorophyll in itself, but with wheatgrass juice, which is very high in chlorophyll) 
-<li>Deodorant properties (this one I found on numerous sources - Chlorophyll is said to be a strong inner deodorant, meaning it will reduce your smell of sweat, as well as bad breath over time! One of the studies can be found <a href="https://agsjournals.onlinelibrary.wiley.com/doi/full/10.1111/j.1532-5415.1980.tb00124.x">here</a>
-<li>Wound healing (according to some <a href="https://www.americanjournalofsurgery.com/article/0002-9610(47)90287-0/fulltext">studies</a> done in the 1940s and 1950s, Chlorophyll may  aid in wound healing, as well as fighting off infections) 
-<li>Cancer (numerous studies found that it may help with preventing or slowing cancer growth - find the study <a href="https://www.tandfonline.com/doi/full/10.1080/01635581.2015.990573?scroll=top&needAccess=true&">here</a>
+<li>Anti-Aging (as a topical treatment - find the study <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4966572/"><ins>here</ins></a>) 
+<li>Acne treatment (as a topical treatment - <a href="https://jddonline.com/articles/dermatology/S1545961615P0589X"><ins>see the study</ins></a>)
+<li>Blood deficiency disorders (for example anemia- <a href="https://www.semanticscholar.org/paper/A-pilot-study-on-wheat-grass-juice-for-its-and-on-Chauhan/73f2bb7c0b1129b5da66ca284eb2294d956fa9d2?p2df"><ins>the study</ins></a> conducted was not done with Chlorophyll in itself, but with wheatgrass juice, which is very high in chlorophyll) 
+<li>Deodorant properties (this one I found on numerous sources - Chlorophyll is said to be a strong inner deodorant, meaning it will reduce your smell of sweat, as well as bad breath over time! One of the studies can be found <a href="https://agsjournals.onlinelibrary.wiley.com/doi/full/10.1111/j.1532-5415.1980.tb00124.x"><ins>here</ins></a>)
+<li>Wound healing (according to some <a href="https://www.americanjournalofsurgery.com/article/0002-9610(47)90287-0/fulltext"><ins>studies</ins></a> done in the 1940s and 1950s, Chlorophyll may  aid in wound healing, as well as fighting off infections) 
+<li>Cancer (numerous studies found that it may help with preventing or slowing cancer growth - find the study <a href="https://www.tandfonline.com/doi/full/10.1080/01635581.2015.990573?scroll=top&needAccess=true&"><ins>here</ins></a>)
 </ul>
 
 
