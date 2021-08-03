@@ -3,10 +3,7 @@ import Link from "next/link";
 import Image from "next/image";
 import Container from "./container";
 import {
-    SOURCE_PATH,
     FOOTER_MESSAGES,
-    AUTHOR_GITHUB_LINK,
-    LICENSE_LINK,
 } from "../lib/constants";
 import Typed from "react-typed";
 import ShareButtons from "./share-buttons";
