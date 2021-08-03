@@ -12,18 +12,30 @@
 @tailwind utilities;
 /* Stop purging. */
 
+.dark {
+	.hljs {
+		background: whitesmoke;
+	}
+}
+
+.light {
+	.hljs {
+		background: #131313;
+	}
+}
+
 .hljs {
-  display: block;
-  overflow-x: auto;
-  padding: 0.6em;
-  @apply bg-gray-100;
+	display: block;
+	overflow-x: auto;
+	padding: 1rem;
+	border-radius: 0.25rem;
 }
 .hljs,
 .hljs-subst {
-  color: #444;
+	color: #2bff00af;
 }
 .hljs-comment {
-  color: #888;
+	color: #929292;
 }
 .hljs-attribute,
 .hljs-doctag,
@@ -31,7 +43,8 @@
 .hljs-meta-keyword,
 .hljs-name,
 .hljs-selector-tag {
-  font-weight: 700;
+	@apply text-purple-500;
+	font-weight: 700;
 }
 .hljs-deletion,
 .hljs-number,
@@ -41,12 +54,12 @@
 .hljs-string,
 .hljs-template-tag,
 .hljs-type {
-  @apply text-blue-400;
+	@apply text-purple-500;
 }
 .hljs-section,
 .hljs-title {
-  @apply text-red-700;
-  font-weight: 700;
+	@apply text-yellow-400;
+	font-weight: 700;
 }
 .hljs-link,
 .hljs-regexp,
@@ -55,26 +68,26 @@
 .hljs-symbol,
 .hljs-template-variable,
 .hljs-variable {
-  @apply text-red-600;
+	@apply text-yellow-400;
 }
 .hljs-literal {
-  @apply text-green-600;
+	@apply text-green-500;
 }
 .hljs-addition,
 .hljs-built_in,
 .hljs-bullet,
 .hljs-code {
-  @apply text-green-500;
+	@apply text-green-500;
 }
 .hljs-meta {
-  @apply text-indigo-500;
+	@apply text-indigo-500;
 }
 .hljs-meta-string {
-  @apply text-blue-500;
+	@apply text-blue-500;
 }
 .hljs-emphasis {
-  font-style: italic;
+	font-style: italic;
 }
 .hljs-strong {
-  font-weight: 700;
+	font-weight: 700;
 }
