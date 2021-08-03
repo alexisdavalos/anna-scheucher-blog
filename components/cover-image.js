@@ -24,6 +24,7 @@ export default function CoverImage({ title, src, slug, hero }) {
     const image = (
         /* eslint-disable */
         <img
+            src={src}
             srcSet={srcSetUrl ? srcSetUrl : `/meta/og-image.png`}
             alt={title}
             className={cn(

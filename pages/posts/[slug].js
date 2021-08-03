@@ -218,14 +218,9 @@ export async function getStaticProps({ params }) {
 		}
 	} catch (error) {
 		console.log(error);
-		return {
-			redirect: {
-				destination: "/",
-				permanent: false,
-			},
-		};
+		throw new Error(error)
 	}
-	return {
+  return data ? {
 		props: {
 			data,
 			post: {
@@ -235,7 +230,12 @@ export async function getStaticProps({ params }) {
 			},
 			morePosts: [...otherPosts],
 		},
-	};
+	} : {
+    redirect: {
+      destination: "/",
+      permanent: false,
+    },
+  };
 }
 
 // Note: For use with getStaticProps
