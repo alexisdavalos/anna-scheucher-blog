@@ -37,7 +37,7 @@ export default function Footer({ typedState, darkMode }) {
                             <Link href="/search?">
                                 <a className="text-primary rounded-sm dark:text-inverse hover:shadow-md mx-3 bg-primary dark:bg-inverse border border-none outline-none font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mb-6 lg:mb-0">
                                     Search Now{" "}
-                                    <span className="text-xs">🔎</span>
+                                    <span className="text-xs"></span>
                                 </a>
                             </Link>
                         </div>
