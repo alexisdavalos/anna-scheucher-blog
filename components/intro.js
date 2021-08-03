@@ -2,7 +2,6 @@ import Link from "next/link";
 import Image from "next/image";
 import Icon from "@mdi/react";
 import { mdiMoonWaxingCrescent, mdiWeatherSunset } from "@mdi/js";
-import animations from "../styles/animations.module.scss";
 import darkLogo from "../public/logo/annaScheucherLogo.png";
 import lightLogo from "../public/logo/annaScheucherLogoLight.png";
 
@@ -14,19 +13,11 @@ export default function Intro({ darkMode, setDarkMode, children }) {
                 <ul className="flex flex-col justify-center items-center w-2/5 mx-auto my-2">
                     <Link href="/" passHref>
                         <a aria-label="home">
-                            {darkMode ? (
-                                <Image
-                                    placeholder="blur"
-                                    src={lightLogo}
-                                    alt="Anna Scheucher Healing Practices Light"
-                                />
-                            ) : (
-                                <Image
-                                    placeholder="blur"
-                                    src={darkLogo}
-                                    alt="Anna Scheucher Healing Practices Dark"
-                                />
-                            )}
+                            <Image
+                                placeholder="blur"
+                                src={darkMode ? lightLogo : darkLogo}
+                                alt="Anna Scheucher Healing Practices"
+                            />
                         </a>
                     </Link>
                     <div className="flex flex-row justify-center items-center space-x-4 my-8">

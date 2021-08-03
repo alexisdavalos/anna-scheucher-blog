@@ -10,8 +10,10 @@ import {
 } from "../lib/constants";
 import Typed from "react-typed";
 import ShareButtons from "./share-buttons";
+import darkLogo from "../public/logo/annaScheucherLogo.png";
+import lightLogo from "../public/logo/annaScheucherLogoLight.png";
 
-export default function Footer({ typedState }) {
+export default function Footer({ typedState, darkMode }) {
     const [typed, setTyped] = useState(typedState);
     const [url, setURL] = useState("");
 
@@ -51,11 +53,11 @@ export default function Footer({ typedState }) {
                         <Link href="/" passHref>
                             <a aria-label="home">
                                 <Image
-                                    width="200px"
-                                    height="200px"
-                                    src="/favicons/android-chrome-512x512.png"
+                                    width="225px"
+                                    height="225px"
+                                    placeholder="blur"
+                                    src={darkMode ? lightLogo : darkLogo}
                                     alt="Anna Scheucher Healing Practices"
-                                    className="w-16 md:w-16 lg:w-32 color:black"
                                 />
                             </a>
                         </Link>

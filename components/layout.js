@@ -26,7 +26,7 @@ export default function Layout({ preview, children, darkMode, setDarkMode }) {
                     <main>{children}</main>
                 </div>
             </div>
-            <Footer />
+            <Footer darkMode={darkMode} />
         </>
     );
 }
