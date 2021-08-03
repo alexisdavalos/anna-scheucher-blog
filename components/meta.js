@@ -9,7 +9,7 @@ export default function Meta() {
             </title>
             <meta
                 name="description"
-                content={`Agamov.Dev is a simple Technology, Crypto, Design and Lifestyle Blog built with Markdown and statically generated with Next.js.Find code snippets, tutorials and other popular topics! With up to date articles and photo tutorials to make your life easier!`}
+                content={`On Anna Scheucher you will find a variety of Blog posts, mostly to do with Health, Holistic Health, Fitness, Wellness and Productivity, in an effort to help you to improve your own life, health and happiness! :)`}
             />
             <link
                 rel="apple-touch-icon"

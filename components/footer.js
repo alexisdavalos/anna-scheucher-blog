@@ -93,7 +93,7 @@ export default function Footer({ typedState, darkMode }) {
                         size={30}
                         windowWidth={640}
                         windowHeight={620}
-                        hashtag={"#agamov"}
+                        hashtag={"#annascheucher"}
                         message="Share This Blog on Social Media"
                     />
                 </div>

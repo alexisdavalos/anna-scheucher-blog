@@ -30,7 +30,7 @@ export default function Index({ allPosts }) {
             <Layout darkMode={darkMode} setDarkMode={setDarkMode}>
                 <Head>
                     <title>
-                        Agamov.Dev - Technology, Crypto, Coding, and Design Blog
+                        Anna Scheucher - Holistic Health, Wellness, Fitness and Productivity Blog
                     </title>
                     <meta property="og:image" content={HOME_OG_IMAGE_URL} />
                 </Head>

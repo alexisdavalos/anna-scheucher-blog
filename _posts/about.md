@@ -1,13 +1,13 @@
 ---
 title: "A Little Info About Me"
 excerpt: "Here you will find a quick introduction and a few facts about me :)"
-coverImage: "/assets/blog/posts/about me banner.jpeg"
+coverImage: "/assets/blog/posts/about-me-banner.jpeg"
 date: "2021-07-31"
 author:
     name: Anna Scheucher
     picture: "/assets/blog/authors/anna.png"
 ogImage:
-    url: "/assets/blog/posts/about me banner.jpeg"
+    url: "/assets/blog/posts/about-me-banner.jpeg"
 topics:
     - "wellness"
     - "health"

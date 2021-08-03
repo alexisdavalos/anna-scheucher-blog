@@ -86,7 +86,7 @@ export default function Post({ allPosts, preview }) {
 
 	const metaTitle = `Searching for: ${
 		searchTerm ? searchTerm : "..."
-	} | Agamov.Dev - Technology, Crypto, and Coding Blog`;
+	} | Anna Scheucher - Holistic Health, Fitness, Wellness and Productivity Blog`;
 
 	const metaDescription = `Searching for posts that include the term: ${
 		searchTerm ? searchTerm : "..."
@@ -112,7 +112,7 @@ export default function Post({ allPosts, preview }) {
 				/>
 				<meta
 					name="twitter:title"
-					content={`Searching for: ${searchTerm} | Agamov.Dev Blog`}
+					content={`Searching for: ${searchTerm} | Anna Scheucher Blog`}
 				/>
 				<meta name="twitter:image" content="meta/og-image.png" />
 				<meta name="twitter:description" content={metaDescription} />

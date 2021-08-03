@@ -69,7 +69,7 @@ export default function PostHeader({
 					size={30}
 					windowWidth={640}
 					windowHeight={620}
-					hashtag={"#agamov"}
+					hashtag={"#annascheucher"}
 					quote={excerpt}
 					message="Share This Article on Social Media"
 				/>
