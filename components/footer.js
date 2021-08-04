@@ -54,7 +54,7 @@ export default function Footer({ typedState, darkMode }) {
                                     height="225px"
                                     placeholder="blur"
                                     src={darkMode ? lightLogo : darkLogo}
-                                    alt="Anna Scheucher Healing Practices"
+                                    alt=" Health and Healing Practices"
                                 />
                             </a>
                         </Link>
@@ -86,7 +86,7 @@ export default function Footer({ typedState, darkMode }) {
 
                     <ShareButtons
                         url={url}
-                        title={"Anna Scheucher Healing Practices"}
+                        title={"FullyHolistic Health and Healing Practices"}
                         size={30}
                         windowWidth={640}
                         windowHeight={620}

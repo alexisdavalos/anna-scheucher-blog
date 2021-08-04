@@ -16,7 +16,7 @@ export default function Intro({ darkMode, setDarkMode, children }) {
                             <Image
                                 placeholder="blur"
                                 src={darkMode ? lightLogo : darkLogo}
-                                alt="Anna Scheucher Healing Practices"
+                                alt="FullyHolistic Health and Healing Practices"
                             />
                         </a>
                     </Link>

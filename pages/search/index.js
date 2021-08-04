@@ -88,7 +88,7 @@ export default function Post({ allPosts, preview }) {
 
     const metaTitle = `Searching for: ${
         searchTerm ? searchTerm : "..."
-    } | Anna Scheucher - Holistic Health, Fitness, Wellness and Productivity Blog`;
+    } | FullyHolistic - Holistic Health, Fitness, Wellness and Productivity Blog`;
 
     const metaDescription = `Searching for posts that include the term: ${
         searchTerm ? searchTerm : "..."

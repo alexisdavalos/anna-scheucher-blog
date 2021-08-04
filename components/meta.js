@@ -4,12 +4,12 @@ export default function Meta() {
     return (
         <Head>
             <title>
-                Anna Scheucher - A information hub for topics like: Holistic Health,
+                FullyHolistic - An information hub for topics like: Holistic Health,
              Wellness, Fitness, Productivity and more!
             </title>
             <meta
                 name="description"
-                content={`On Anna Scheucher you will find a variety of Blog posts, mostly to do with Health, Holistic Health, Fitness, Wellness and Productivity, in an effort to help you to improve your own life, health and happiness! :)`}
+                content={`On FullyHolistic you will find a variety of Blog posts, mostly to do with Health, Holistic Health, Fitness, Wellness and Productivity, in an effort to help you to improve your own life, health and happiness! :)`}
             />
             <link
                 rel="apple-touch-icon"
