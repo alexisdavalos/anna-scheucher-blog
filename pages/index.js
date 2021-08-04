@@ -20,7 +20,7 @@ export default function Index({ allPosts }) {
             <Layout darkMode={darkMode} setDarkMode={setDarkMode}>
                 <Head>
                     <title>
-                        Anna Scheucher - Holistic Health, Wellness, Fitness and Productivity Blog
+                        FullyHolistic - Holistic Health, Wellness, Fitness and Productivity Blog
                     </title>
                     <meta property="og:image" content={HOME_OG_IMAGE_URL} />
                 </Head>
