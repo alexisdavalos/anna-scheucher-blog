@@ -6,7 +6,6 @@ import { mdiMoonWaxingCrescent, mdiWeatherSunset } from "@mdi/js";
 const Footer = dynamic(import("../components/footer"));
 
 export default function Layout({ preview, children, darkMode, setDarkMode }) {
-    
     return (
         <>
             <Meta />
@@ -27,7 +26,7 @@ export default function Layout({ preview, children, darkMode, setDarkMode }) {
                     <main>{children}</main>
                 </div>
             </div>
-            <Footer darkMode={darkMode} />
+            <Footer />
         </>
     );
 }
