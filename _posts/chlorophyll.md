@@ -67,13 +67,19 @@ In a Youtube video, dermatologist Dr Dray talks about the possible risks of Chlo
 
 You can watch the video here:
 
- <iframe width="560" height="315" src="https://www.youtube.com/embed/a87sHnm9i8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+ <iframe width="100%" height="auto" src="https://www.youtube.com/embed/a87sHnm9i8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 But this condition is mostly due to an over-consumption of the green pigment. Chlorophyll in and of itself is not evil. In fact, we consume it almost every day, when we eat green plants and vegetables. 
 
 ## My experience with Chlorophyll
 
 After carefully reviewing all the information, I decided to give it a try myself. 
+
+
+<div class='w-full flex justify-center items-center'>
+<img class='w-3/4' src='https://firebasestorage.googleapis.com/v0/b/annascheucher-25389.appspot.com/o/chlorophyll.jpg?alt=media&token=73e6013f-e858-4307-8632-2b38799f1701' alt=''>
+</div>
+
 
 For my personal consumption, I choose to drink one glass of it a day, usually first thing in the morning. That way I ensure not to overdo it and it gives me the habit of drinking a big glass of water right off the bat, which is always a plus :) 
 
