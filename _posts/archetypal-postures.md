@@ -113,7 +113,7 @@ Apart from being a natural position for you body, it bears these other advantage
 
 ## The benefits of squatting 
 
-Another one - and one of my favorite postures -  is squatting. And no, I’m not (just) talking about the famous exercise you do at the gym to get more thicc (lol) 
+Another one - and one of my favorite postures -  is squatting. And no, I’m not (just) talking about the famous exercise you do at the gym to get thiccer (lol) 
 
 The full squat refers to the position where your knees are flexed and your thighs touch your calves while the heels remain flat on the floor. 
 
