@@ -1,7 +1,7 @@
 ---
 title: "How to prevent Back Pain - and the Benefits of Archetypal Postures"
 excerpt: "If you want to learn how to prevent back pain, this post is for you! Plus a little closer look into Primal Movements and Archetypal Postures."
-coverImage: "/assets/blog/posts/chlorophyll-banner.jpeg"
+coverImage: "/assets/blog/posts/archetypal-postures.jpeg"
 date: "2021-08-05"
 author:
     name: Anna Scheucher
