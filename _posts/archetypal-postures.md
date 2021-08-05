@@ -70,15 +70,15 @@ It comes as no surprise to anyone that walking is good for us. It is the activit
 But other than that, walking brings a lot of benefits to the table: 
 
 <ul class="list-disc">
-<li>Movement: Moving our body is always good, especially in our primarily sedentary lifestyles. Our primal ancestors moved almost all day long, and our basic biology craves the same from us
+<li><span class='font-bold'>Movement:</span> Moving our body is always good, especially in our primarily sedentary lifestyles. Our primal ancestors moved almost all day long, and our basic biology craves the same from us
 
-<li>Improved Circulation: When we walk, our circulation benefits highly. It helps to ward off heart disease, lowers your blood pressure and strengthens your heart. 
+<li><span class='font-bold'>Improved Circulation:</span> When we walk, our circulation benefits highly. It helps to ward off heart disease, lowers your blood pressure and strengthens your heart. 
 
-<li>Stronger bones: walking can help stop the loss of bone mass for those with osteoporosis. It also helps with general bone density, according to <a href="https://pubmed.ncbi.nlm.nih.gov/8304358/"><ins>this study</ins></a>
+<li><span class='font-bold'>Stronger bones:</span> walking can help stop the loss of bone mass for those with osteoporosis. It also helps with general bone density, according to <a href="https://pubmed.ncbi.nlm.nih.gov/8304358/"><ins>this study</ins></a>
 
-<li>Longer Life: Not only will your life be potentially more pain-free, it might also be prolonged by regular walking! According to <a href="https://www.cancer.org/research/population-science/cancer-prevention-and-survivorship-research-team/acs-cancer-prevention-studies/cancer-prevention-study-2.html"><ins>the American Cancer Society</ins></a>, regular walking may reduce the risk of different types of cancer and in turn potentially prolong your lifespan.
+<li><span class='font-bold'>Longer Life:</span> Not only will your life be potentially more pain-free, it might also be prolonged by regular walking! According to <a href="https://www.cancer.org/research/population-science/cancer-prevention-and-survivorship-research-team/acs-cancer-prevention-studies/cancer-prevention-study-2.html"><ins>the American Cancer Society</ins></a>, regular walking may reduce the risk of different types of cancer and in turn potentially prolong your lifespan.
 
-<li>Improved Mood: walking brings us the mood-boosting endorphins connected with any type of exercise. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5015672/"><ins>A study</ins></a> has proven that an increased number of steps every day not only boosted the participant’s mood, it also reduced their anxiety, depression, fatigue, anger and confusion!
+<li><span class='font-bold'>Improved Mood:</span> walking brings us the mood-boosting endorphins connected with any type of exercise. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5015672/"><ins>A study</ins></a> has proven that an increased number of steps every day not only boosted the participant’s mood, it also reduced their anxiety, depression, fatigue, anger and confusion!
 </ul>
 
 
@@ -96,19 +96,19 @@ Apart from being a natural position for you body, it bears these other advantage
 
 <ul class="list-disc">
 
-<li>Naturally demands your core (the more you narrow your legs, the more it will demand your core to stabilize - get an added ab workout in your work day!) 
+<li>Naturally <span class='font-bold'>demands your core</span> (the more you narrow your legs, the more it will demand your core to stabilize - get an added ab workout in your work day!) 
 
-<li>Activates and improves muscles you are not used to use in everyday life 
+<li><span class='font-bold'>Activates and improves muscles</span> you are not used to use in everyday life 
 
-<li>Half kneeling (one leg down and one leg forward) will automatically put your spine and pelvis in a neutral form 
+<li>Half kneeling (one leg down and one leg forward) will automatically put your<span class='font-bold'> spine and pelvis in a neutral form</span> 
 
-<li>It will force you to be more upright and therefore improve your posture 
+<li>It will force you to <span class='font-bold'>be more upright</span> and therefore improve your posture 
 
-<li>Forces you to move and shift more (as mentioned in the introduction of this post) 
+<li>Forces you to <span class='font-bold'>move and shift more</span> (as mentioned in the introduction of this post) 
 
-<li>Any benefit you would get from standing 
+<li>Any benefit you would get from <span class='font-bold'>standing</span> 
 
-<li>It’s FREE - no need for equipment, a professional, a new desk - it works with what you already have at your disposal! 
+<li><span class='font-bold'>It’s FREE</span> - no need for equipment, a professional, a new desk - it works with what you already have at your disposal! 
 </ul>
 
 ## The benefits of squatting 
@@ -133,15 +133,15 @@ On top of that, your pelvis will be tipped back, therefore elongating your spine
 Other benefits of squatting include: 
 
 <ul class="list-disc">
-<li>Ankle Mobility: as you practice your full squat, your heels will eventually sit flat on the floor, giving you a great range of ankle flexibility. This in turn can help with bad posture - so another win against back pain! 
+<li><span class='font-bold'>Ankle Mobility:</span> as you practice your full squat, your heels will eventually sit flat on the floor, giving you a great range of ankle flexibility. This in turn can help with bad posture - so another win against back pain! 
 
-<li>Glute strengthening: We have all probably heard of how squats help us build our Glutaeus Maximus muscle (aka your butt). Coming in and out of a full squat is one of the best ways to train that muscle, and it will in turn help stabilize your entire body. 
+<li><span class='font-bold'>Glute strengthening:</span> We have all probably heard of how squats help us build our Glutaeus Maximus muscle (aka your butt). Coming in and out of a full squat is one of the best ways to train that muscle, and it will in turn help stabilize your entire body. 
 
-<li>All of these benefits will result in an improvement of both your static and dynamic posture. This will do big things in preventing back pain in the future, so maybe consider squatting down more often while you work. 
-
-<li>Working at a coffee table has proven very useful for me when implementing most of these strategies! 
-
+<li>All of these benefits will result in an improvement of both your <span class='font-bold'>static and dynamic posture</span>. This will do big things in preventing back pain in the future, so maybe consider squatting down more often while you work. 
 </ul>
+
+Working at a coffee table has proven very useful for me when implementing most of these strategies! 
+
 
 ## The benefits of sitting on the ground 
 
@@ -150,15 +150,15 @@ I already touched on some benefits of sitting on the ground at the beginning of 
 
 <ul class="list-disc">
 
-<li>Stability: Just like with kneeling or squatting, your core is engaged a lot more when sitting on the ground as opposed to a chair. 
+<li><span class='font-bold'>Stability:</span> Just like with kneeling or squatting, your core is engaged a lot more when sitting on the ground as opposed to a chair. 
 
-<li>Hip tension: one of the biggest problems of sitting in a chair is how tight our hip flexor muscles become. Sitting on the ground allows you to easily stretch them throughout the day and by switching positions frequently. 
+<li><span class='font-bold'>Hip tension:</span> one of the biggest problems of sitting in a chair is how tight our hip flexor muscles become. Sitting on the ground allows you to easily stretch them throughout the day and by switching positions frequently. 
 
-<li>Flexibility: sitting on the ground will automatically improve your range of motion. Most positions will require a passive stretch of some of your lower body muscles, in turn giving you a lot more flexibility in the long run! 
+<li><span class='font-bold'>Flexibility:</span> sitting on the ground will automatically improve your range of motion. Most positions will require a passive stretch of some of your lower body muscles, in turn giving you a lot more flexibility in the long run! 
 
-<li>Mobility: This ties in with the point about flexibility, the more flexible you become, the greater your mobility will be! 
+<li><span class='font-bold'>Mobility:</span> This ties in with the point about flexibility, the more flexible you become, the greater your mobility will be! 
 
-<li>Muscle Activity: just like kneeling and squatting, sitting on the ground will also count towards active rest. You need a lot more muscle activity to sit in these positions as opposed to a chair for example.
+<li><span class='font-bold'>Muscle Activity:</span> just like kneeling and squatting, sitting on the ground will also count towards active rest. You need a lot more muscle activity to sit in these positions as opposed to a chair for example.
 </ul>
 
 
