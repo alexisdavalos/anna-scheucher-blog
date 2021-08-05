@@ -169,13 +169,13 @@ Whether you want to prevent back pain or simply life a more balanced, active lif
 Of course you don’t have to go and throw out your chair and implement every single of these points immediately, but maybe try to keep them in the back of your head to use in short intervals throughout your day. 
 
 A few tips to start using Primal Movements today: 
+<ul class="list-disc">
+<li>Get up from your desk at least every hour to walk, even if it is just a few steps. Set an alarm if you need to. 
 
-1. Get up from your desk at least every hour to walk, even if it is just a few steps. Set an alarm if you need to. 
+<li>Try to see how you can (realistically) get as much walking into your everyday life as possible. I’m thinking stairs instead of elevator, walking to the store around the corner instead of taking the car, walking around the house for 15 minutes while being on social media/ reading in your downtime. 
 
-2. Try to see how you can (realistically) get as much walking into your everyday life as possible. I’m thinking stairs instead of elevator, walking to the store around the corner instead of taking the car, walking around the house for 15 minutes while being on social media/ reading in your downtime. 
-
-3. Define a timespan that works for you and then set a timer to use Archetypal Postures. For example: Every hour, set a 10 minute timer to squat at your desk instead of sitting. Increase time/frequency as you get more used to it. 
-
+<li>Define a timespan that works for you and then set a timer to use Archetypal Postures. For example: Every hour, set a 10 minute timer to squat at your desk instead of sitting. Increase time/frequency as you get more used to it. 
+</ul>
 
 I hope these tips will prove to be helpful in your day to day life. Let me know if you’ve tried any of them and what you think by clicking the “contact” button! 
 
