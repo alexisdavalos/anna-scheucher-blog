@@ -113,6 +113,7 @@ Apart from these (and numerous other) scientific benefits, Intermittent Fasters 
 <li><span class='font-bold'>Better athletic performance</span>
 <li><span class='font-bold'>Heightened mood</span>
 </ul>
+
 in connection with their fasting. 
 
 <br/>
@@ -143,6 +144,8 @@ What you can drink:
 <li><span class='font-bold'>Lemon juice</span> (squeezing lemon or lime into your water will not break your fast and may actually bring a lot of added health benefits!)  
 
 <li><span class='font-bold'>Non-caloric drinks</span> (again, try to stay away from artificial sweeteners as much as possible. Even though Coke Zero for example won’t technically break your fast, it is better to stick to water, tea and coffee during that time) 
+
+![photo of lime](/assets/blog/posts/lime-photo.jpeg)
 
 ## Breaking the fast
 To break your fast, you can choose to eat whatever you want. Some people have no problem breaking their fast with big meals, other people report it is better for their digestion to ease into eating by having a light meal or some fruit first. Experiment with what feels best for your body!
@@ -179,6 +182,9 @@ I have seen a huge increase in my performance since starting to work out on an e
 When I don’t workout in my fasting window, I try to do it in the evening before dinner, at least 3-4 hours after my last meal. 
 
 This works well for me, and I can even go on long 5-6 hour hikes on an empty stomach without fluctuations in my energy! 
+
+![photo of woman running](/assets/blog/posts/runner-photo.png)
+
 ## Conclusion
 
 Intermittent Fasting can be a great tool in understanding your body and hunger, as well as optimizing your health. 
