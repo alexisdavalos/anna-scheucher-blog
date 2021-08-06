@@ -10,6 +10,7 @@ import { filterList } from "../../lib/filterList";
 import { mdiClose, mdiAlertCircleOutline } from "@mdi/js";
 import Icon from "@mdi/react";
 import { DarkModeContext } from "../../lib/darkModeContext";
+import { HOME_OG_IMAGE_URL } from "../../lib/constants";
 const PostTitle = dynamic(import("../../components/post-title"));
 const Layout = dynamic(import("../../components/layout"));
 const Container = dynamic(import("../../components/container"));

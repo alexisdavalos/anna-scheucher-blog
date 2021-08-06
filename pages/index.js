@@ -16,9 +16,7 @@ export default function Index({ allPosts }) {
     const morePosts = allPosts.slice(1);
     const { darkMode, setDarkMode } = useContext(DarkModeContext);
 
-    const metaTitle = `Searching for: ${
-        searchTerm ? searchTerm : "..."
-    } | FullyHolistic - Holistic Health, Fitness, Wellness and Productivity Blog`;
+    const metaTitle = `FullyHolistic - Holistic Health, Wellness, Fitness and Productivity Blog`;
 
     const metaDescription =
         "On FullyHolistic you will find a variety of Blog posts, mostly to do with Health, Holistic Health, Fitness, Wellness and Productivity, in an effort to help you to improve your own life, health and happiness! :)";
