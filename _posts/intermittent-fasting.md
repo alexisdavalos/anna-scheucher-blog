@@ -21,6 +21,7 @@ topics:
 
 <p class="text-left font-serif">
 
+
 # The benefits of Intermittent Fasting 
 
 Intermittent fasting has become more and more popular over the last couple of years. It is a trend used by people to lose weight, improve their health or simplify their lifestyles. Maybe you’ve heard of it, or maybe even tried it. Whether that’s the case, or you are completely new to this topic, this post will give you a practical overview on what Intermittent Fasting is, the benefits of Intermittent Fasting, how to properly fast, as well as a personal account of my own experience with it. 
@@ -43,7 +44,7 @@ There are different types of Intermittent fasting, so I will explain them in a b
 
 This is arguably the most common type of Intermittent Fasting. The great thing about all of the time restricted types of fasting, is that they are 100% adjustable to any lifestyle. Once you choose the type of intervall you will go with, you have complete freedom to choose what hours of eating fit your current lifestyle the best. 
 
-#### 16:8
+#### <span class='font-bold'>16:8</span>
 16 refers to the number of hours you will spend fasting, 8 is the number of hours you will spend eating. This is a great start to fasting for beginners.
 
 For example, if you tend to have busy mornings and usually have a late dinner at night, starting your fasting window at 9pm after dinner and not eating until 1pm the next day might be the best fit for you. 
@@ -52,7 +53,7 @@ If your last meal is usually around 5pm, you might just start your fast there an
 
 You can adjust this schedule any way you like, as long as you stick to the basic rule of 16 hours fasting / 8 hours eating. 
 
-#### 14:10 
+#### <span class='font-bold'>14:10</span>
 
 If 16 hours of fasting seem too long for you at first, start smaller! 14, or even 12 hour windows can still bring some benefits of IF! But remember, the longer your fasting window, the more benefits you tend to reap from fasting! 
 
@@ -107,13 +108,13 @@ Here is a list of other benefits of IF:
 Apart from these (and numerous other) scientific benefits, Intermittent Fasters have also reported: 
 
 <ul class="list-disc">
-<li><span class='font-bold'>Improved Clarity
-<li>More energy
-<li>Less hunger 
-<li>No more “hangry-ness” 
-<li>Improved focus 
-<li>Better athletic performance
-<li>Heightened mood</span>
+<li><span class='font-bold'>Improved Clarity</span>
+<li><span class='font-bold'>More energy</span>
+<li><span class='font-bold'>Less hunger</span>
+<li><span class='font-bold'>No more “hangry-ness”</span>
+<li><span class='font-bold'>Improved focus</span> 
+<li><span class='font-bold'>Better athletic performance</span>
+<li><span class='font-bold'>Heightened mood</span>
 </ul>
 in connection with their fasting. 
 
@@ -151,7 +152,6 @@ To break your fast, you can choose to eat whatever you want. Some people have no
 
 <span class='font-bold'>Important: Make sure to get enough food and calories in your eating window to benefit from IF!</span> 
 
-<br/>
 
 ## Personal Takeaways 
 
