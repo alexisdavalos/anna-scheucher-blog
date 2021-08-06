@@ -31,6 +31,8 @@ export default function Post({ post, morePosts, preview, data }) {
             ? "http://localhost:3000"
             : process.env.NEXT_PUBLIC_BLOG_URL;
 
+    const postUrl = baseURL + router.asPath;
+
     // Used on first load to determine whether the page has been viewed or not. Updates the state accordingly
     useEffect(() => {
         if (typeof window !== "undefined" && data) {
@@ -124,17 +126,27 @@ export default function Post({ post, morePosts, preview, data }) {
                                     content={post.excerpt}
                                 />
                                 <meta
-                                    property="og:image"
-                                    content={post.ogImage.url}
-                                />
-                                <meta
                                     property="og:title"
                                     content={post.title}
+                                />
+                                <meta
+                                    property="og:description"
+                                    content={post.excerpt}
+                                />
+                                <meta property="og:type" content="website" />
+                                <meta
+                                    property="og:image"
+                                    content={post.ogImage.url}
                                 />
                                 <meta property="og:date" content={post.date} />
                                 <meta
                                     property="og:author"
                                     content={post.author.name}
+                                />
+                                <meta property="og:url" content={postUrl} />
+                                <meta
+                                    property="og:site_name"
+                                    content="FullyHolistic Blog"
                                 />
                                 <meta
                                     name="twitter:card"

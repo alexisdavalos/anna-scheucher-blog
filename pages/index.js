@@ -15,14 +15,43 @@ export default function Index({ allPosts }) {
     const heroPost = allPosts[0];
     const morePosts = allPosts.slice(1);
     const { darkMode, setDarkMode } = useContext(DarkModeContext);
+
+    const metaTitle = `Searching for: ${
+        searchTerm ? searchTerm : "..."
+    } | FullyHolistic - Holistic Health, Fitness, Wellness and Productivity Blog`;
+
+    const metaDescription =
+        "On FullyHolistic you will find a variety of Blog posts, mostly to do with Health, Holistic Health, Fitness, Wellness and Productivity, in an effort to help you to improve your own life, health and happiness! :)";
     return (
         <>
             <Layout darkMode={darkMode} setDarkMode={setDarkMode}>
                 <Head>
-                    <title>
-                        FullyHolistic - Holistic Health, Wellness, Fitness and Productivity Blog
-                    </title>
+                    <title>{metaTitle}</title>
+                    <meta name="description" content={metaDescription} />
+                    <meta property="og:title" content={metaTitle} />
+                    <meta property="og:description" content={metaDescription} />
+                    <meta property="og:type" content="website" />
                     <meta property="og:image" content={HOME_OG_IMAGE_URL} />
+                    <meta
+                        property="og:url"
+                        content={`${process.env.NEXT_PUBLIC_BLOG_URL}`}
+                    />
+                    <meta property="og:site_name" content={metaTitle} />
+                    <meta name="twitter:card" content={metaDescription} />
+                    <meta
+                        name="twitter:url"
+                        content={`${process.env.NEXT_PUBLIC_BLOG_URL}/`}
+                    />
+                    <meta name="twitter:title" content={metaTitle} />
+                    <meta name="twitter:image" content={HOME_OG_IMAGE_URL} />
+                    <meta
+                        name="twitter:description"
+                        content={metaDescription}
+                    />
+                    <link
+                        rel="canonical"
+                        href={`${process.env.NEXT_PUBLIC_BLOG_URL}/`}
+                    />
                 </Head>
                 <Container>
                     <Intro darkMode={darkMode} setDarkMode={setDarkMode} />

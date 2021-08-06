@@ -21,8 +21,6 @@ topics:
     - "relationships"
 ---
 
-<p class="text-left font-serif">
-
 Do you ever react to an emotion in a way that seems way out of proportion, and you regret it afterwards? You are not alone with this, but it can take a toll on friendships, relationships, or simply your relationship to yourself.
 
 Understanding how to react to your feelings in a healthy way is key to a healthy relationship, with yourself and others, for a more balanced and happy life.
@@ -53,7 +51,3 @@ By bringing awareness to your emotion, you are no longer on autopilot. Now there
 _“What part of me feels threatened right now? What am I afraid of? How do I want to go about this?”_
 
 It takes time and practice, but with each time you will learn more about yourself. Now you will be in a position to choose- do you want to remove yourself from the situation? Voice your feelings? Take action? Whatever it might be, you are liberating yourself from your own unconscious programming and can start living your life more consciously.
-
-##
-
-<p class="text-left font-serif"></p>

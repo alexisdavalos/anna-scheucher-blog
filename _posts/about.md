@@ -16,7 +16,7 @@ topics:
     - "about me"
 ---
 
-<p class="text-left font-serif">Hey!
+Hey!
 
 Let me introduce myself a little bit:
 
@@ -34,8 +34,6 @@ Issues I might be able to help you with include Heartbreak Recovery, Abandonment
 
 </p>
 
-##
-
 <h3 class="font-serif" align="center">Contact me! :)</h3>
 <p class="font-serif" align="center">
   [
@@ -48,7 +46,7 @@ Issues I might be able to help you with include Heartbreak Recovery, Abandonment
 
 <br/>
 
-This Blog offers you a variety of resources on 
+This Blog offers you a variety of resources on
 
 <span class="font-bold">
 <ul class="list-disc">
@@ -63,6 +61,4 @@ This Blog offers you a variety of resources on
 
 </span>
 
-Thank you for being here! 
-
-<p class="text-left font-serif"></p>
+Thank you for being here!
