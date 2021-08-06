@@ -145,7 +145,7 @@ What you can drink:
 
 <li><span class='font-bold'>Non-caloric drinks</span> (again, try to stay away from artificial sweeteners as much as possible. Even though Coke Zero for example won’t technically break your fast, it is better to stick to water, tea and coffee during that time) 
 
-![photo of lime](/assets/blog/posts/lime-photo.jpeg)
+![photo of coffee](/assets/blog/posts/coffee-photo.png)
 
 ## Breaking the fast
 To break your fast, you can choose to eat whatever you want. Some people have no problem breaking their fast with big meals, other people report it is better for their digestion to ease into eating by having a light meal or some fruit first. Experiment with what feels best for your body!
