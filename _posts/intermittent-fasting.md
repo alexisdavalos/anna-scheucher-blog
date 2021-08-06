@@ -21,9 +21,6 @@ topics:
 
 <p class="text-left font-serif">
 
-
-# The benefits of Intermittent Fasting 
-
 Intermittent fasting has become more and more popular over the last couple of years. It is a trend used by people to lose weight, improve their health or simplify their lifestyles. Maybe you’ve heard of it, or maybe even tried it. Whether that’s the case, or you are completely new to this topic, this post will give you a practical overview on what Intermittent Fasting is, the benefits of Intermittent Fasting, how to properly fast, as well as a personal account of my own experience with it. 
 
 ## The history of Fasting
@@ -198,4 +195,4 @@ There is no one-fits-all answer to this, as everybody is different and every bod
 Let me know if you have tried IF and what your experience with it was, or if you have any questions by clicking the “contact” button at the top of the page! 
 
 
-<p class="text-left font-serif"></p>
+</p

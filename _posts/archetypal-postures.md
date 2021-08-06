@@ -26,8 +26,6 @@ topics:
 
 <p class="text-left font-serif">
 
-# How to prevent Back Pain - and the Benefits of Archetypal Postures
-
 Back Pain is something a lot of people struggle with, especially now that our lifestyles are becoming more and more sedentary. Covid and the sudden switch to home offices, mostly without ergonomic office chairs at our disposal, did not help this issue. But you will be pleased to know that you do not need a $500+ chair in order to do something good for your back.
 
 Whether you’re here because you are currently suffering from pain (if that is the case, I am sincerely sorry and I will write a post on how to deal with acute pain soon), or whether you randomly stumbled upon this post and are looking for ways of prevention, I will give you a few handy tips on how to prevent back pain based on how our primal ancestors went about their days.

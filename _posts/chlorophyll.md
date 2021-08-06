@@ -19,7 +19,6 @@ topics:
 
 <p class="text-left font-serif">
 
-# What are the benefits of Chlorophyll?
 
 A trend of drinking green water has been rummaging all over social media the past few weeks. Chlorophyll water - what is it and what is the hype all about?
 
