@@ -1,5 +1,4 @@
 import Document, { Html, Head, Main, NextScript } from "next/document";
-
 export default class MyDocument extends Document {
     render() {
         return (
@@ -11,19 +10,10 @@ export default class MyDocument extends Document {
                         src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GA_ID}`}
                     />
                     <script
+                        data-ad-client={`${process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID}`}
                         async
-                        src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID}`}
+                        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
                     ></script>
-                    <script
-                        dangerouslySetInnerHTML={{
-                            __html: `
-								(adsbygoogle = window.adsbygoogle || []).push({
-									google_ad_client: ${process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID},
-									enable_page_level_ads: true
-								});
-                `,
-                        }}
-                    />
                     <script
                         dangerouslySetInnerHTML={{
                             __html: `
