@@ -8,22 +8,11 @@ import { DarkModeContext } from "../lib/darkModeContext";
 export default function SearchStories({ posts }) {
     const interval = 4;
     const { darkMode, setDarkMode } = useContext(DarkModeContext);
-    const [loadablePosts, setloadablePosts] = useState(
-        posts.slice(0, interval)
+    const [loadablePosts, setloadablePosts] = useState([]);
+    const [isLoadable, setIsLoadable] = useState(
+        loadablePosts.length > interval && loadablePosts.length !== posts.length
     );
-    const [isLoadable, setIsLoadable] = useState(posts.length > interval);
     const loadRef = useRef(null);
-
-    const loadMorePosts = (posts, postState) => {
-        const currentPosts = postState.length;
-        const start = currentPosts; // Arr is 0 idx
-        const end = start + (interval + 1); // Adds invterval more posts slice does not include end indx
-        const morePosts = posts.slice(start, end);
-        const newPosts = [...loadablePosts, ...morePosts];
-        const loadable = newPosts.length !== posts.length;
-        setIsLoadable(loadable);
-        setloadablePosts(newPosts);
-    };
 
     // Listen to scroll positions for loading more data on scroll
     useEffect(() => {
@@ -36,12 +25,31 @@ export default function SearchStories({ posts }) {
         }
     });
 
+    // Reloads the state of posts if the props change
+    useEffect(() => {
+        if (posts.length > 0) {
+            setloadablePosts(posts.slice(0, interval));
+        }
+    }, [posts]);
+
+    const loadMorePosts = (posts, postState) => {
+        const currentPosts = postState.length;
+        const start = currentPosts; // Arr is 0 idx
+        const end = start + (interval + 1); // Adds invterval more posts slice does not include end indx
+        const morePosts = posts.slice(start, end);
+        const newPosts = [...loadablePosts, ...morePosts];
+        const loadable = newPosts.length !== posts.length;
+        setIsLoadable(loadable);
+        setloadablePosts(newPosts);
+    };
+
     const onScrollHandler = (e) => {
         if (typeof window !== undefined && loadRef) {
             const scrollY = window.pageYOffset; //Don't get confused by what's scrolling - It's not the window
             const scrollYOffset = loadRef.current.offsetTop;
             const difference = scrollYOffset - scrollY;
             const threshHold = 400;
+
             // Load more posts when scrolling the loader ref into view is within the threshold and there are posts to load
             if (difference <= threshHold && isLoadable) {
                 loadMorePosts(posts, loadablePosts);
@@ -51,7 +59,7 @@ export default function SearchStories({ posts }) {
     return (
         <section>
             <h2 className="mb-8 mt-16 text-6xl md:text-7xl font-bold tracking-tighter leading-tight">
-                More Articles
+                Search Articles
             </h2>
             <div className="grid grid-cols-1 gap-6 md:grid-cols-2 mb-16">
                 {loadablePosts.map((post) => (
