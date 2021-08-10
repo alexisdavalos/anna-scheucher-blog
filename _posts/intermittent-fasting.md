@@ -13,9 +13,9 @@ topics:
     - "health"
     - "food"
     - "tips"
-    - "intermittent fasting"
+    - "intermittent-fasting"
     - "fasting"
-    - "gut health"
+    - "gut-health"
     - "healthy"
 ---
 

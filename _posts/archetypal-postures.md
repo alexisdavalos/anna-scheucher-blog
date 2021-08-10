@@ -14,13 +14,13 @@ topics:
     - "massage"
     - "tips"
     - "primal"
-    - "primal movements"
+    - "primal-movements"
     - "archetypal postures"
     - "back pain"
-    - "home office"
+    - "homeoffice"
     - "squatting"
     - "kneeling"
-    - "sitting on the ground" 
+    - "sitting-on-the-ground" 
     - "walking"
 ---
 
