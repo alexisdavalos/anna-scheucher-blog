@@ -11,7 +11,7 @@ export default function Intro({ darkMode, setDarkMode, children }) {
             <nav className="flex flex-col items-center align-middle justify-evenly space-y-4 mt-16 mb-16 md:mb-12">
                 {/* Blog Header */}
                 <ul className="flex flex-col justify-center items-center w-2/5 mx-auto my-2">
-                    <Link href="/" passHref>
+                    <Link href="/">
                         <a aria-label="home">
                             <Image
                                 placeholder="blur"
@@ -49,10 +49,10 @@ export default function Intro({ darkMode, setDarkMode, children }) {
                     </div>
                 </ul>
                 {/* Dark Mode Toggle + Search Link */}
-                <div className="w-full sm:w-2/3 flex flex-col justify-center items-center space-y-2">
+                <div className="w-full sm:w-2/3 flex flex-col justify-center items-center">
                     <section
                         onClick={() => setDarkMode(!darkMode)}
-                        className="md:hidden cursor-pointer flex justfiy-center items-center space-x-2 transition-all duration-500 ease-in-out"
+                        className="cursor-pointer flex md:hidden justfiy-center items-center"
                     >
                         <span className="text-sm font-semibold">
                             {darkMode ? "Dark Mode" : "Light Mode"}

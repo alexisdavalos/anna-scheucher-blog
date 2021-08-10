@@ -10,6 +10,7 @@ import { filterList } from "../../lib/filterList";
 import { mdiClose, mdiAlertCircleOutline } from "@mdi/js";
 import Icon from "@mdi/react";
 import { DarkModeContext } from "../../lib/darkModeContext";
+import { HOME_OG_IMAGE_URL } from "../../lib/constants";
 const PostTitle = dynamic(import("../../components/post-title"));
 const Layout = dynamic(import("../../components/layout"));
 const Container = dynamic(import("../../components/container"));
@@ -102,22 +103,35 @@ export default function Post({ allPosts, preview }) {
             <Head>
                 <title>{metaTitle}</title>
                 <meta name="description" content={metaDescription} />
-                <meta property="og:image" content="/meta/og-image.png" />
                 <meta property="og:title" content={metaTitle} />
+                <meta property="og:description" content={metaDescription} />
+                <meta property="og:type" content="website" />
+                <meta property="og:image" content={HOME_OG_IMAGE_URL} />
                 <meta
-                    name="twitter:card"
-                    content="Search for anything in the blog including: techology, design, crypto, coding etc.."
+                    property="og:date"
+                    content={posts[0] ? posts[0].date : new Date(Date.now())}
                 />
+                <meta
+                    property="og:author"
+                    content={posts[0] ? posts[0].author.name : "FullyHolistic"}
+                />
+                <meta
+                    property="og:url"
+                    content={`${process.env.NEXT_PUBLIC_BLOG_URL}/search`}
+                />
+                <meta property="og:site_name" content={metaTitle} />
+                <meta name="twitter:card" content={metaDescription} />
                 <meta
                     name="twitter:url"
-                    content={`${process.env.NEXT_PUBLIC_BLOG_URL}/search?${searchTerm}`}
+                    content={`${process.env.NEXT_PUBLIC_BLOG_URL}/search`}
                 />
-                <meta
-                    name="twitter:title"
-                    content={`Searching for: ${searchTerm} | Anna Scheucher Blog`}
-                />
-                <meta name="twitter:image" content="meta/og-image.png" />
+                <meta name="twitter:title" content={metaTitle} />
+                <meta name="twitter:image" content={HOME_OG_IMAGE_URL} />
                 <meta name="twitter:description" content={metaDescription} />
+                <link
+                    rel="canonical"
+                    href={`${process.env.NEXT_PUBLIC_BLOG_URL}/search`}
+                />
             </Head>
             <Container>
                 <Header />

@@ -4,8 +4,17 @@ import Meta from "../components/meta";
 import Icon from "@mdi/react";
 import { mdiMoonWaxingCrescent, mdiWeatherSunset } from "@mdi/js";
 const Footer = dynamic(import("../components/footer"));
+import { useEffect } from "react";
 
 export default function Layout({ preview, children, darkMode, setDarkMode }) {
+    useEffect(() => {
+        if (window !== undefined) {
+            var ads = document.getElementsByClassName("adsbygoogle").length;
+            if (ads.length < 1) {
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            }
+        }
+    });
     return (
         <>
             <Meta />
@@ -26,7 +35,7 @@ export default function Layout({ preview, children, darkMode, setDarkMode }) {
                     <main>{children}</main>
                 </div>
             </div>
-            <Footer />
+            <Footer darkMode={darkMode} />
         </>
     );
 }

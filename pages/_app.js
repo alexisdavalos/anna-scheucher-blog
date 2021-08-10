@@ -1,18 +1,11 @@
 import "../styles/index.scss";
-import { useRouter } from "next/router";
-import Head from "next/head";
 import DarkMode from "../lib/darkModeContext";
 
 export default function MyApp({ Component, pageProps }) {
-    const router = useRouter();
-    return (
+    // Use the layout defined at the page level, if available
+    const getLayout = Component.getLayout || ((page) => page);
+    return getLayout(
         <DarkMode>
-            <Head>
-                <link
-                    rel="canonical"
-                    href={`${process.env.NEXT_PUBLIC_BLOG_URL}${router.asPath}`}
-                />
-            </Head>
             <Component {...pageProps} />
         </DarkMode>
     );
