@@ -2,19 +2,17 @@ import { useEffect, useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import Container from "./container";
-import {
-    SOURCE_PATH,
-    FOOTER_MESSAGES,
-    AUTHOR_GITHUB_LINK,
-    LICENSE_LINK,
-} from "../lib/constants";
+import { FOOTER_MESSAGES } from "../lib/constants";
 import Typed from "react-typed";
 import ShareButtons from "./share-buttons";
+import darkLogo from "../public/logo/fullyholistic-logo-light.png";
+import lightLogo from "../public/logo/fullyholistic-logo-dark.png";
 
-export default function Footer({ typedState }) {
+export default function Footer({ typedState, darkMode }) {
     const [typed, setTyped] = useState(typedState);
     const [url, setURL] = useState("");
     const year = new Date().getFullYear();
+
     useEffect(() => {
         setTyped(true);
         if (typeof window !== undefined) {
@@ -36,92 +34,63 @@ export default function Footer({ typedState }) {
                         />
                         <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
                             <Link href="/search?">
-                                <a className="text-primary rounded-sm dark:text-inverse hover:shadow-md hover:text-white mx-3 bg-primary dark:bg-inverse bg-gradient-to-r hover:from-blue-500 hover:to-purple-600 hover:border-purple-600 border border-none outline-none font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mb-6 lg:mb-0">
-                                    Search Now{" "}
-                                    <span className="text-xs">🔎</span>
+                                <a className="text-primary rounded-sm dark:text-inverse hover:shadow-md mx-3 bg-primary dark:bg-inverse border border-none outline-none font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mb-6 lg:mb-0">
+                                    Search Now <span className="text-xs"></span>
                                 </a>
                             </Link>
-                            <a
-                                href={`${SOURCE_PATH}`}
-                                className="mx-3 font-bold hover:underline"
-                                target="_blank"
-                                rel="noreferrer"
-                            >
-                                View on GitHub
-                            </a>
                         </div>
                     </div>
                 </Container>
             </footer>
             <footer className="bg-primary dark:bg-inverse text-primary dark:text-inverse border-none">
                 <div className="py-12 flex items-center justify-center text-center flex-col">
-                    <Link href="/" passHref>
-                        <a>
-                            <Image
-                                width="120px"
-                                height="120px"
-                                src="/favicons/android-chrome-512x512.png"
-                                alt="Agamov.Dev - Technology, Crypto, and Coding Blog"
-                                className="w-16 md:w-16 lg:w-32 color:black"
-                            />
-                        </a>
-                    </Link>
-                    <p className="mt-10 w-3/4">
-                        Built by{" "}
-                        <a
-                            className="underline font-bold"
-                            href={AUTHOR_GITHUB_LINK}
-                            target="_blank"
-                            rel="noreferrer"
-                        >
-                            Alexis Davalos
-                        </a>
-                        . The source code is licensed under open source{" "}
-                        <a
-                            className="underline font-bold"
-                            href={LICENSE_LINK}
-                            target="_blank"
-                            rel="noreferrer"
-                        >
-                            MIT
-                        </a>{" "}
-                        License.
-                    </p>
-                    <div className="flex flex-row justify-center items-center space-x-4 my-8">
+                    <ul className="flex flex-col justify-center items-center w-2/5 mx-auto my-2">
                         <Link href="/" passHref>
-                            <a className="hover:underline cursor-pointer text-lg font-semibold tracking-tighter leading-tight pr-2">
-                                Home
+                            <a aria-label="home">
+                                <Image
+                                    width="225px"
+                                    height="225px"
+                                    placeholder="blur"
+                                    src={darkMode ? lightLogo : darkLogo}
+                                    alt=" Health and Healing Practices"
+                                />
                             </a>
                         </Link>
-                        <Link href="/about" passHref>
-                            <a className="hover:underline cursor-pointer text-lg font-semibold tracking-tighter leading-tight pr-2">
-                                About
-                            </a>
-                        </Link>
-                        <Link href="/" passHref>
-                            <a
-                                target="_blank"
-                                rel="noreferrer"
-                                className="hover:underline cursor-pointer text-lg font-semibold tracking-tighter leading-tight pr-2"
+                        <div className="flex flex-row justify-center items-center space-x-4 my-8">
+                            <Link href="/" passHref>
+                                <a className="hover:underline cursor-pointer text-lg font-semibold tracking-tighter leading-tight pr-2">
+                                    Home
+                                </a>
+                            </Link>
+                            <Link href="/about" passHref>
+                                <a className="hover:underline cursor-pointer text-lg font-semibold tracking-tighter leading-tight pr-2">
+                                    About
+                                </a>
+                            </Link>
+                            <Link
+                                href="mailto:ascheucher.healing@gmail.com"
+                                passHref
                             >
-                                Contact
-                            </a>
-                        </Link>
-                    </div>
+                                <a
+                                    target="_blank"
+                                    rel="noreferrer"
+                                    className="hover:underline cursor-pointer text-lg font-semibold tracking-tighter leading-tight pr-2"
+                                >
+                                    Contact
+                                </a>
+                            </Link>
+                        </div>
+                    </ul>
+
                     <ShareButtons
                         url={url}
-                        title={"Agamov Dev is a Programming and Design Blog..."}
+                        title={"FullyHolistic Health and Healing Practices"}
                         size={30}
                         windowWidth={640}
                         windowHeight={620}
-                        hashtag={"#agamov"}
+                        hashtag={"#annascheucher"}
                         message="Share This Blog on Social Media"
                     />
-                    <Link href="/search?">
-                        <a className="cursor-pointer my-4 text-lg font-semibold">
-                            Search Blog
-                        </a>
-                    </Link>
                 </div>
             </footer>
             <section className="w-full text-center bg-inverse text-inverse p-4">
