@@ -682,8 +682,10 @@ export default function Privacy() {
                         Contact Information
                     </h2>
                     <p>
-                        To ask questions or comment about this privacy policy
-                        and our privacy practices, contact us
+                        <span>
+                            To ask questions or comment about this privacy
+                            policy and our privacy practices, contact us{" "}
+                        </span>
                         <a href="mailto:alexisdavalos.dev@gmail.com subject=Privacy Policy">
                             here
                         </a>
