@@ -51,17 +51,17 @@ export default function Privacy() {
                         Introduction
                     </h2>
                     <p>
-                        FullyHolistic (“Company” or“We”) respects your privacy,
-                        and we are committed to protecting it through our
-                        compliance with this policy. This policy describes the
-                        types of information we may collect from you or that you
-                        may provide when you visit the websites located at
-                        www.fullyholistic.com and www.annascheucher.com along
-                        with their subdomains, their corresponding social media
-                        pages, and any associated websites or mobileapplications
-                        (our “Websites”) and our practices for collecting,
-                        using, maintaining, protecting, and disclosing that
-                        information.
+                        Agamov.Dev (“Company” or“We”) respects your privacy, and
+                        we are committed to protecting it through our compliance
+                        with this policy. This policy describes the types of
+                        information we may collect from you or that you may
+                        provide when you visit the websites located at
+                        www.agamov.dev, www.alexisdavalos.com,
+                        www.alexisdavalos.dev along with their subdomains, their
+                        corresponding social media pages, and any associated
+                        websites or mobileapplications (our “Websites”) and our
+                        practices for collecting, using, maintaining,
+                        protecting, and disclosing that information.
                     </p>
                     <h2>This policy applies to information we collect:</h2>
                     <ul className="list-disc ml-4 space-y-4 list-inside">
@@ -422,7 +422,7 @@ export default function Privacy() {
                     </p>
                     <p>
                         We may use the information we have collected from you to
-                        enable us to display advertisements to our advertisers'
+                        enable us to display advertisements to our advertisers
                         target audiences. Even though we do not disclose your
                         personal information for these purposes without your
                         consent, if you click on or otherwise interact with an
@@ -458,11 +458,11 @@ export default function Privacy() {
                             To a buyer or other successor in the event of a
                             merger, divestiture, restructuring, reorganization,
                             dissolution, or other sale or transfer of some or
-                            all of FullyHolistic's assets, whether as a going
-                            concern or as part of bankruptcy, liquidation, or
-                            similar proceeding, in which personal information
-                            held by FullyHolistic, about our Websites’ users is
-                            among the assets transferred.
+                            all of the assets, whether as a going concern or as
+                            part of bankruptcy, liquidation, or similar
+                            proceeding, in which personal information held by
+                            Agamov.Dev, about our Websites’ users is among the
+                            assets transferred.
                         </li>
                         <li>
                             [To third parties to market their products or
@@ -495,7 +495,7 @@ export default function Privacy() {
                         <li>
                             ·If we believe disclosure is necessary or
                             appropriate to protect the rights, property, or
-                            safety of FullyHolistic, our customers, or others.
+                            safety of Agamov.Dev, our customers, or others.
                         </li>
                     </ul>
                 </section>
@@ -529,13 +529,13 @@ export default function Privacy() {
                         </li>
                     </ul>
                     <p>
-                        We do not control third parties' collection or use of
+                        We do not control third parties collection or use of
                         your information to serve interest-based advertising.
                         However, these third parties may provide you with ways
                         to choose not to have your 6 information collected or
                         used in this way. You can opt out of receiving targeted
                         ads from members of the Network Advertising Initiative
-                        (“NAI”) on the NAI's website.We do not currently sell
+                        (“NAI”) on the NAIs website.We do not currently sell
                         data triggering requirements set forth by California or
                         Nevada law. The only information collected on our
                         Websites that we sell is Aggregated Information.
@@ -581,7 +581,7 @@ export default function Privacy() {
                         (“CCPA”).
                     </p>
                     <p>
-                        California's “Shine the Light” law (Civil Code Section §
+                        Californias “Shine the Light” law (Civil Code Section §
                         1798.83) permits users of our App that are California
                         residents to request certain information regarding our
                         disclosure of personal information to third parties for
@@ -682,11 +682,9 @@ export default function Privacy() {
                         Contact Information
                     </h2>
                     <p>
-                        <span>
-                            To ask questions or comment about this privacy
-                            policy and our privacy practices, contact us{" "}
-                        </span>
-                        <a href="mailto:alexisdavalos.dev@gmail.com subject=Privacy Policy">
+                        To ask questions or comment about this privacy policy
+                        and our privacy practices, contact us
+                        <a href="mailto:ascheucher.healing@gmail.com subject=Privacy Policy">
                             here
                         </a>
                     </p>
