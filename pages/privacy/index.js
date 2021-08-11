@@ -51,17 +51,17 @@ export default function Privacy() {
                         Introduction
                     </h2>
                     <p>
-                        Agamov.Dev (“Company” or“We”) respects your privacy, and
-                        we are committed to protecting it through our compliance
-                        with this policy. This policy describes the types of
-                        information we may collect from you or that you may
-                        provide when you visit the websites located at
-                        www.agamov.dev, www.alexisdavalos.com,
-                        www.alexisdavalos.dev along with their subdomains, their
-                        corresponding social media pages, and any associated
-                        websites or mobileapplications (our “Websites”) and our
-                        practices for collecting, using, maintaining,
-                        protecting, and disclosing that information.
+                        FullyHolistic (“Company” or“We”) respects your privacy,
+                        and we are committed to protecting it through our
+                        compliance with this policy. This policy describes the
+                        types of information we may collect from you or that you
+                        may provide when you visit the websites located at
+                        www.fullyholistic.com, www.annascheucher.com, along with
+                        their subdomains, their corresponding social media
+                        pages, and any associated websites or mobileapplications
+                        (our “Websites”) and our practices for collecting,
+                        using, maintaining, protecting, and disclosing that
+                        information.
                     </p>
                     <h2>This policy applies to information we collect:</h2>
                     <ul className="list-disc ml-4 space-y-4 list-inside">
@@ -461,8 +461,8 @@ export default function Privacy() {
                             all of the assets, whether as a going concern or as
                             part of bankruptcy, liquidation, or similar
                             proceeding, in which personal information held by
-                            Agamov.Dev, about our Websites’ users is among the
-                            assets transferred.
+                            Fully Holistic, about our Websites’ users is among
+                            the assets transferred.
                         </li>
                         <li>
                             [To third parties to market their products or
@@ -495,7 +495,7 @@ export default function Privacy() {
                         <li>
                             ·If we believe disclosure is necessary or
                             appropriate to protect the rights, property, or
-                            safety of Agamov.Dev, our customers, or others.
+                            safety of Fully Holistic, our customers, or others.
                         </li>
                     </ul>
                 </section>
