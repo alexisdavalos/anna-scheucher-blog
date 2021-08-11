@@ -95,7 +95,7 @@ export default function Footer({ typedState, darkMode }) {
             </footer>
             <section className="w-full text-center bg-inverse text-inverse p-4">
                 <span>
-                    Copyright &copy; {year} Agamov.Dev All rights reserved{" "}
+                    Copyright &copy; {year} Fully Holistic All rights reserved{" "}
                 </span>
                 <Link href="/privacy" passHref>
                     <a className="text-inverse hover:underline cursor-pointer font-semibold tracking-tighter leading-tight pr-2">
