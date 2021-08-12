@@ -15,16 +15,12 @@ topics:
     - "tips"
     - "primal"
     - "primal-movements"
-    - "archetypal postures"
+    - "archetypal-postures"
     - "back pain"
     - "homeoffice"
     - "squatting"
     - "kneeling"
-<<<<<<< HEAD
-    - "sitting-on-the-ground" 
-=======
-    - "sitting on the ground"
->>>>>>> 674acfaf5eea1a25067802b04d20c9d7e18a6348
+    - "sitting-on-the-ground"
     - "walking"
 ---
 

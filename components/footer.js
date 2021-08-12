@@ -2,9 +2,7 @@ import { useEffect, useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import Container from "./container";
-import {
-    FOOTER_MESSAGES,
-} from "../lib/constants";
+import { FOOTER_MESSAGES } from "../lib/constants";
 import Typed from "react-typed";
 import ShareButtons from "./share-buttons";
 import darkLogo from "../public/logo/fullyholistic-logo-light.png";
@@ -13,6 +11,7 @@ import lightLogo from "../public/logo/fullyholistic-logo-dark.png";
 export default function Footer({ typedState, darkMode }) {
     const [typed, setTyped] = useState(typedState);
     const [url, setURL] = useState("");
+    const year = new Date().getFullYear();
 
     useEffect(() => {
         setTyped(true);
@@ -36,8 +35,7 @@ export default function Footer({ typedState, darkMode }) {
                         <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
                             <Link href="/search?">
                                 <a className="text-primary rounded-sm dark:text-inverse hover:shadow-md mx-3 bg-primary dark:bg-inverse border border-none outline-none font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mb-6 lg:mb-0">
-                                    Search Now{" "}
-                                    <span className="text-xs"></span>
+                                    Search Now <span className="text-xs"></span>
                                 </a>
                             </Link>
                         </div>
@@ -95,6 +93,16 @@ export default function Footer({ typedState, darkMode }) {
                     />
                 </div>
             </footer>
+            <section className="w-full text-center bg-inverse text-inverse p-4">
+                <span>
+                    Copyright &copy; {year} Fully Holistic All rights reserved{" "}
+                </span>
+                <Link href="/privacy" passHref>
+                    <a className="text-inverse hover:underline cursor-pointer font-semibold tracking-tighter leading-tight pr-2">
+                        Privacy Policy
+                    </a>
+                </Link>
+            </section>
         </section>
     );
 }
