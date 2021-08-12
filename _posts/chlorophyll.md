@@ -71,8 +71,16 @@ But this condition is mostly due to an over-consumption of the green pigment. Ch
 
 After carefully reviewing all the information, I decided to give it a try myself.
 
-<div class='w-full flex justify-center items-center'>
-<img class='w-3/4' src='https://firebasestorage.googleapis.com/v0/b/annascheucher-25389.appspot.com/o/chlorophyll.jpg?alt=media&token=73e6013f-e858-4307-8632-2b38799f1701' alt=''>
+<!-- Parent Element -->
+<div class='w-full flex flex-col justify-center items-start'>
+
+<!-- Image Element -->
+<img class='w-1/3' src='/images/chlorophyll.jpeg' alt='Water in a Mason Jar with Chlorophyll shining against the light.'>
+
+<!-- Image Label -->
+
+<span class="w-1/3 text-sm p-2">Water in a Mason Jar with Chlorophyll.</span>
+
 </div>
 
 For my personal consumption, I choose to drink one glass of it a day, usually first thing in the morning. That way I ensure not to overdo it and it gives me the habit of drinking a big glass of water right off the bat, which is always a plus :)
