@@ -63,7 +63,7 @@ In a Youtube video, dermatologist Dr Dray talks about the possible risks of Chlo
 
 You can watch the video here:
 
- <iframe width="100%" height="auto" src="https://www.youtube.com/embed/a87sHnm9i8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="100%" height="400" src="https://www.youtube.com/embed/a87sHnm9i8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 But this condition is mostly due to an over-consumption of the green pigment. Chlorophyll in and of itself is not evil. In fact, we consume it almost every day, when we eat green plants and vegetables.
 
