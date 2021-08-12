@@ -2,7 +2,7 @@ import dynamic from "next/dynamic";
 import Alert from "../components/alert";
 import Meta from "../components/meta";
 import Icon from "@mdi/react";
-import { mdiMoonWaxingCrescent, mdiWeatherSunset } from "@mdi/js";
+import { mdiMoonWaxingCrescent, mdiWeatherSunny } from "@mdi/js";
 const Footer = dynamic(import("../components/footer"));
 import { useEffect } from "react";
 
@@ -24,7 +24,7 @@ export default function Layout({ preview, children, darkMode, setDarkMode }) {
                         onClick={() => setDarkMode(!darkMode)}
                         className="cursor-pointer relative transition-all duration-500 ease-in-out"
                         path={
-                            darkMode ? mdiMoonWaxingCrescent : mdiWeatherSunset
+                            darkMode ? mdiMoonWaxingCrescent : mdiWeatherSunny
                         }
                         size={2}
                         color={darkMode ? "white" : "black"}

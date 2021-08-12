@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import Icon from "@mdi/react";
-import { mdiMoonWaxingCrescent, mdiWeatherSunset } from "@mdi/js";
+import { mdiMoonWaxingCrescent, mdiWeatherSunny } from "@mdi/js";
 import darkLogo from "../public/logo/fullyholistic-logo-light.png";
 import lightLogo from "../public/logo/fullyholistic-logo-dark.png";
 
@@ -62,7 +62,7 @@ export default function Intro({ darkMode, setDarkMode, children }) {
                             path={
                                 darkMode
                                     ? mdiMoonWaxingCrescent
-                                    : mdiWeatherSunset
+                                    : mdiWeatherSunny
                             }
                             size={1}
                             color={darkMode ? "white" : "black"}
