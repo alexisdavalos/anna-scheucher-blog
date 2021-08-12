@@ -46,20 +46,20 @@ Excess sugar is harmful throughout the body. Every instance of elevated levels o
 
 This can result in <span class='font-bold'>slow cognitive function</span>, (cognitive function is our general mental capability involving reasoning, problem-solving, planning, abstract thinking, complex idea comprehension, and learning from experience) and memory and attention deficits. 
 
-Studies https://www.sciencedirect.com/science/article/abs/pii/S0166432816301437?via%3Dihub
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0166432816301437?via%3Dihub"><ins>Studies</ins></a>
 suggest that a high intake of sugar may lead to inflammation in the brain, which leads to <span class='font-bold'>difficulties with memory</span>. 
 
 ## How sugar affects your mood 
 
 In healthy, young people the ability to process emotions is affected negatively by elevated blood sugar levels. 
 
-A study https://doi.org/10.1038/s41598-017-05649-7  found that higher levels of blood glucose were linked to a <span class='font-bold'>greater incidence of depression</span>. 
+<a href="https://doi.org/10.1038/s41598-017-05649-7"><ins>A Study</ins></a> found that higher levels of blood glucose were linked to a <span class='font-bold'>greater incidence of depression</span>. 
 
 >In this study, they found that those with the highest consumption of sugar were <span class='font-bold'>23% more likely to suffer from a mental illness</span> than those with lower levels of sugar consumption. 
 
 ## How sugar affects your Mental Capacity
 
-Frequent exposure to high levels of blood sugar in diabetics diminishes mental capacity and is associated with <span class='font-bold'>a greater degree of brain shrinkage</span>, according to this study https://doi.org/10.1007/s11892-016-0775-x 
+Frequent exposure to high levels of blood sugar in diabetics diminishes mental capacity and is associated with <span class='font-bold'>a greater degree of brain shrinkage</span>, according to <a href="https://doi.org/10.1007/s11892-016-0775-x "><ins>this study</ins></a>.
 
 >But even in those without diabetes, high consumption of sugar has been linked to lower test scores on cognitive function. These effects may be due to a combination of, hypertension, hyperglycemia, insulin resistance, and elevated cholesterol.
 
@@ -115,7 +115,7 @@ The problem is both the <span class='font-bold'>lack of moderation and the amoun
 
 But there is a difference between loving sweets and having an actual sugar addiction. Here are 8 signs you might suffer from the latter: 
 
-<ul class=list"disc">
+<ul class="list-disc">
 <li>You need <span class='font-bold'>more and more</span> sugar to satisfy your cravings
 <li>You eat sugary foods or foods high in carbohydrates even <span class='font-bold'>when you’re not hungry</span>
 <li>You <span class='font-bold'>ALWAYS</span> crave sweets
