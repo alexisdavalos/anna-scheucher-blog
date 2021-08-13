@@ -40,6 +40,10 @@ But what does this excess sugar intake do to our brains?
 
 Excess sugar will impair both our cognitive skills and our self-control. 
 
+<div class='w-1/2 flex justify-start items-start'>
+<img class='w-1/2' src='https://firebasestorage.googleapis.com/v0/b/annascheucher-25389.appspot.com/o/brain-image.jpeg?alt=media&token=8b725879-35b0-4c6a-b72c-234c236fc1a1' alt='brain scan'>
+</div>
+
 ## How sugar affects memory
 
 Excess sugar is harmful throughout the body. Every instance of elevated levels of glucose in the bloodstream can have harmful effects on the brain. 
@@ -64,6 +68,10 @@ Frequent exposure to high levels of blood sugar in diabetics diminishes mental c
 >But even in those without diabetes, high consumption of sugar has been linked to lower test scores on cognitive function. These effects may be due to a combination of, hypertension, hyperglycemia, insulin resistance, and elevated cholesterol.
 
 ## The effects of Sugar on the Body
+
+<div class='w-1/2 flex justify-start items-start'>
+<img class='w-1/2' src='https://firebasestorage.googleapis.com/v0/b/annascheucher-25389.appspot.com/o/sugar-image.jpeg?alt=media&token=141eb1d9-f0e9-4c67-9f8d-9e377f2b8ada' alt='spoon with sugar and strawberries'>
+</div>
 
 Consuming an excessive amount of sugar can have a negative impact on our entire body. 
 
@@ -108,6 +116,10 @@ The result is Diabetes Type 2. Having a strict diet can improve your receptor de
 
 
 ## Do you have a sugar addiction? 
+
+<div class='w-3/4 flex justify-start items-start'>
+<img class='w-3/4' src='https://firebasestorage.googleapis.com/v0/b/annascheucher-25389.appspot.com/o/sugar-addiction.jpeg?alt=media&token=7ad4558a-c5e4-4766-bfee-426c1fc1e247' alt='brain scan'>
+</div>
 
 Now, eating sugar is not bad. In fact, we NEED it to survive and many healthy foods are rich in natural sugars. 
 
