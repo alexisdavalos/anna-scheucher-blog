@@ -40,30 +40,38 @@ But what does this excess sugar intake do to our brains?
 
 Excess sugar will impair both our cognitive skills and our self-control. 
 
+<div class='w-1/2 flex justify-start items-start'>
+<img class='w-1/2' src='https://firebasestorage.googleapis.com/v0/b/annascheucher-25389.appspot.com/o/brain-image.jpeg?alt=media&token=8b725879-35b0-4c6a-b72c-234c236fc1a1' alt='brain scan'>
+</div>
+
 ## How sugar affects memory
 
 Excess sugar is harmful throughout the body. Every instance of elevated levels of glucose in the bloodstream can have harmful effects on the brain. 
 
 This can result in <span class='font-bold'>slow cognitive function</span>, (cognitive function is our general mental capability involving reasoning, problem-solving, planning, abstract thinking, complex idea comprehension, and learning from experience) and memory and attention deficits. 
 
-Studies https://www.sciencedirect.com/science/article/abs/pii/S0166432816301437?via%3Dihub
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0166432816301437?via%3Dihub"><ins>Studies</ins></a>
 suggest that a high intake of sugar may lead to inflammation in the brain, which leads to <span class='font-bold'>difficulties with memory</span>. 
 
 ## How sugar affects your mood 
 
 In healthy, young people the ability to process emotions is affected negatively by elevated blood sugar levels. 
 
-A study https://doi.org/10.1038/s41598-017-05649-7  found that higher levels of blood glucose were linked to a <span class='font-bold'>greater incidence of depression</span>. 
+<a href="https://doi.org/10.1038/s41598-017-05649-7"><ins>A Study</ins></a> found that higher levels of blood glucose were linked to a <span class='font-bold'>greater incidence of depression</span>. 
 
 >In this study, they found that those with the highest consumption of sugar were <span class='font-bold'>23% more likely to suffer from a mental illness</span> than those with lower levels of sugar consumption. 
 
 ## How sugar affects your Mental Capacity
 
-Frequent exposure to high levels of blood sugar in diabetics diminishes mental capacity and is associated with <span class='font-bold'>a greater degree of brain shrinkage</span>, according to this study https://doi.org/10.1007/s11892-016-0775-x 
+Frequent exposure to high levels of blood sugar in diabetics diminishes mental capacity and is associated with <span class='font-bold'>a greater degree of brain shrinkage</span>, according to <a href="https://doi.org/10.1007/s11892-016-0775-x "><ins>this study</ins></a>.
 
 >But even in those without diabetes, high consumption of sugar has been linked to lower test scores on cognitive function. These effects may be due to a combination of, hypertension, hyperglycemia, insulin resistance, and elevated cholesterol.
 
 ## The effects of Sugar on the Body
+
+<div class='w-1/2 flex justify-start items-start'>
+<img class='w-1/2' src='https://firebasestorage.googleapis.com/v0/b/annascheucher-25389.appspot.com/o/sugar-image.jpeg?alt=media&token=141eb1d9-f0e9-4c67-9f8d-9e377f2b8ada' alt='spoon with sugar and strawberries'>
+</div>
 
 Consuming an excessive amount of sugar can have a negative impact on our entire body. 
 
@@ -109,13 +117,17 @@ The result is Diabetes Type 2. Having a strict diet can improve your receptor de
 
 ## Do you have a sugar addiction? 
 
+<div class='w-3/4 flex justify-start items-start'>
+<img class='w-3/4' src='https://firebasestorage.googleapis.com/v0/b/annascheucher-25389.appspot.com/o/sugar-addiction.jpeg?alt=media&token=7ad4558a-c5e4-4766-bfee-426c1fc1e247' alt='brain scan'>
+</div>
+
 Now, eating sugar is not bad. In fact, we NEED it to survive and many healthy foods are rich in natural sugars. 
 
 The problem is both the <span class='font-bold'>lack of moderation and the amount of added, unhealthy sugars</span> that we consume throughout our days. 
 
 But there is a difference between loving sweets and having an actual sugar addiction. Here are 8 signs you might suffer from the latter: 
 
-<ul class=list"disc">
+<ul class="list-disc">
 <li>You need <span class='font-bold'>more and more</span> sugar to satisfy your cravings
 <li>You eat sugary foods or foods high in carbohydrates even <span class='font-bold'>when you’re not hungry</span>
 <li>You <span class='font-bold'>ALWAYS</span> crave sweets
