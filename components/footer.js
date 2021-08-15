@@ -47,12 +47,12 @@ export default function Footer({ typedState, darkMode }) {
                     <ul className="flex flex-col justify-center items-center w-2/5 mx-auto my-2">
                         <Link href="/" passHref>
                             <a aria-label="home">
-                                <Image
-                                    width="225px"
-                                    height="225px"
+                                {/* eslint-disable */}
+                                <img
+                                    style="width:225px; height:225px"
                                     placeholder="blur"
                                     src={darkMode ? lightLogo : darkLogo}
-                                    alt=" Health and Healing Practices"
+                                    alt="Fully Holistic Health and Healing Practices"
                                 />
                             </a>
                         </Link>
