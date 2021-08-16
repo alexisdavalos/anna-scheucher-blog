@@ -87,15 +87,21 @@ export default function Post({ allPosts, preview }) {
         setPosts(allPosts);
     };
 
-    const metaTitle = `Searching for: ${
+    let metaTitle = `Searching for: ${
         searchTerm ? searchTerm : "..."
     } | FullyHolistic - Holistic Health, Fitness, Wellness and Productivity Blog`;
 
-    const metaDescription = `Searching for posts that include the term: ${
+    let metaDescription = `Searching for posts that include the term: ${
         searchTerm ? searchTerm : "..."
     } \n Resulted with - ${posts[0] ? posts[0].title : "Nothing Found"}: ${
         posts[0] ? posts[0].excerpt : ""
     }`;
+
+    // Search engine crawlers only show the first 150-160 characters of the description and 50–60 for titles in the search results page, so if it is too long, searchers may not see all of the text. If it is too short, the search engines may add text found elsewhere on the page.
+    // Note: that search engines may show a different description from the one you have authored if they feel it may be more relevant to a user's search.
+
+    metaTitle = metaTitle.slice(0, 60);
+    metaDescription = metaDescription.slice(0, 157) + "...";
 
     // Returns the Search UI
     return (

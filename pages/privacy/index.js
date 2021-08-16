@@ -8,9 +8,16 @@ import { HOME_OG_IMAGE_URL } from "../../lib/constants";
 
 export default function Privacy() {
     const { darkMode, setDarkMode } = useContext(DarkModeContext);
-    const metaTitle = `FullyHolistic - Privacy Policy`;
-    const metaDescription =
+    let metaTitle = `FullyHolistic - Privacy Policy`;
+    let metaDescription =
         "Privacy Policy for FullyHolistic a blog mostly to do with Health, Holistic Health, Fitness, Wellness and Productivity, in an effort to help you to improve your own life, health and happiness! :)";
+
+    // Search engine crawlers only show the first 150-160 characters of the description and 50–60 for titles in the search results page, so if it is too long, searchers may not see all of the text. If it is too short, the search engines may add text found elsewhere on the page.
+    // Note: that search engines may show a different description from the one you have authored if they feel it may be more relevant to a user's search.
+
+    metaTitle = metaTitle.slice(0, 60);
+    metaDescription = metaDescription.slice(0, 157) + "...";
+
     return (
         <Layout darkMode={darkMode} setDarkMode={setDarkMode}>
             <Head>
