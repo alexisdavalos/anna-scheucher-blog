@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
 import Link from "next/link";
-import Image from "next/image";
 import Container from "./container";
 import { FOOTER_MESSAGES } from "../lib/constants";
 import Typed from "react-typed";
@@ -49,9 +48,13 @@ export default function Footer({ typedState, darkMode }) {
                             <a aria-label="home">
                                 {/* eslint-disable */}
                                 <img
-                                    style="width:225px; height:225px"
+                                    className="w-40"
                                     placeholder="blur"
-                                    src={darkMode ? lightLogo : darkLogo}
+                                    src={
+                                        darkMode
+                                            ? `/logo/fullyholistic-logo-dark.png`
+                                            : `/logo/fullyholistic-logo-light.png`
+                                    }
                                     alt="Fully Holistic Health and Healing Practices"
                                 />
                             </a>
