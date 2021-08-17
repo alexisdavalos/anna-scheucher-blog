@@ -4,8 +4,6 @@ import Container from "./container";
 import { FOOTER_MESSAGES } from "../lib/constants";
 import Typed from "react-typed";
 import ShareButtons from "./share-buttons";
-import darkLogo from "../public/logo/fullyholistic-logo-light.png";
-import lightLogo from "../public/logo/fullyholistic-logo-dark.png";
 
 export default function Footer({ typedState, darkMode }) {
     const [typed, setTyped] = useState(typedState);
