@@ -10,6 +10,7 @@ const MoreStories = dynamic(import("../components/more-stories"));
 const HeroPost = dynamic(import("../components/hero-post"));
 const Intro = dynamic(import("../components/intro"));
 const Layout = dynamic(import("../components/layout"));
+const Subscribe = dynamic(import("../components/subscribe"));
 
 export default function Index({ allPosts }) {
     const heroPost = allPosts[0];
@@ -66,7 +67,7 @@ export default function Index({ allPosts }) {
                             content={heroPost.content}
                         />
                     )}
-                    <hr className="border-b-2" />
+                    <Subscribe darkMode={darkMode} />
                     {morePosts.length > 0 && <MoreStories posts={morePosts} />}
                 </Container>
             </Layout>
