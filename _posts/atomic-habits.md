@@ -2,7 +2,7 @@
 title: "Atomic Habits - Takeaways"
 excerpt: "A summary of the main points of Atomic Habits, and the key takeaways when building or breaking habits."
 coverImage: "/assets/blog/posts/atomic-habits-banner.jpeg"
-date: "2021-08-31"
+date: "2021-08-24"
 author:
     name: Anna Scheucher
     picture: "/assets/blog/authors/anna.png"
