@@ -8,7 +8,6 @@
         "lint": "next lint"
     },
     "dependencies": {
-        "@mailchimp/mailchimp_marketing": "^3.0.59",
         "@mdi/js": "^5.9.55",
         "@mdi/react": "^1.5.0",
         "axios": "^0.21.1",
