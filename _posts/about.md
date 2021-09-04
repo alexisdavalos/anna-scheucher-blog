@@ -28,9 +28,9 @@ Through personal experience, I can say that if one of these aspects is suffering
  
 My mission is to help people reach an equilibrium where they feel well in every aspect of their life.
  
-I’m also trained in Trauma-Informed Healing and help people to release their trauma (or PTSD) through various techniques, like Inner-Child Healing, Reparenting, Mindfulness & Meditative Techniques, Nervous System Regulation, and Somatic Experiencing.
+I’m also a Trauma-Informed Healer and help people to release their trauma (or PTSD) through various techniques, like Inner-Child Healing, Reparenting, Mindfulness & Meditative Techniques, Nervous System Regulation, and Somatic Experiencing.
  
-Issues I might be able to help you with include Heartbreak Recovery, Abandonment Wounds, setting healthy boundaries, adapting to a healthier lifestyle, and finding love in yourself and the world.
+Issues I might be able to help you with include Heartbreak Recovery, Abandonment Wounds, setting Healthy Boundaries, adapting to a Healthier Lifestyle, and Finding Love in yourself and the world.
 
 
 </p>

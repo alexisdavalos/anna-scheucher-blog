@@ -2,7 +2,7 @@
 title: "How to cope with Overthinking"
 excerpt: "Why do we overthink? An explanation and things you can do to be less anxious! "
 coverImage: "/assets/blog/posts/overthinking-banner.jpeg"
-date: "2021-08-24"
+date: "2021-08-31"
 author:
     name: Anna Scheucher
     picture: "/assets/blog/authors/anna.png"
