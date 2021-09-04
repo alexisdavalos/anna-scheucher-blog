@@ -1,3 +1,4 @@
+import Link from "next/link";
 import Container from "./container";
 import cn from "classnames";
 import { ALERT_PATH } from "../lib/constants";
@@ -12,15 +13,10 @@ export default function Alert() {
             <Container>
                 <div className="py-2 text-center text-sm flex justify-center items-center space-x-2">
                     <span className="mx-2">🌻</span>
-                    <span>{`Schedule an Intro Session With Me`}</span>
-                    <a
-                        href={`${ALERT_PATH}`}
-                        className="font-bold text-yellow-500 hover:text-yellow-400 duration-200 transition-colors"
-                        target="_blank"
-                        rel="noreferrer"
-                    >
-                        Here
-                    </a>
+                    <span>{`Free Mindful Eating E-Book:`}</span>
+                    <Link href="/#subscribe" passHref>
+                        <a className="ml-0 text-yellow-500 hover:text-yellow-400 duration-200 transition-colors">Here</a>
+                    </Link>
                 </div>
             </Container>
         </div>

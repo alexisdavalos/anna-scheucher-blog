@@ -1,4 +1,5 @@
 module.exports = {
+	important: true,
 	darkMode: "class",
 	purge: false,
 	future: {
