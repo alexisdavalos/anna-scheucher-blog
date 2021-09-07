@@ -34,6 +34,18 @@ About a month ago, I started meditating daily again, making it a <span class='fo
 ## 5 scientific benefits of meditating daily 
 I will first get into some of the <span class='font-bold'>scientific benefits of meditation</span> before I talk a little bit more about my own experience with it. 
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5622102322291070"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-5622102322291070"
+     data-ad-slot="6574140578"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ### Meditation reduces Stress
 
 This is probably the most widely known effect of meditation. When you are mentally or physically stressed, it will cause <span class='font-bold'>increased levels of the stress hormone cortisol</span> in your body. Over time, this can lead to the release of <span class='font-bold'>inflammatory chemicals</span>, therefore disrupting your sleep, leading to increased levels of depression and anxiety, increased blood pressure, fatigue, etc. 
