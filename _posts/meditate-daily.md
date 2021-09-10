@@ -38,6 +38,7 @@ I will first get into some of the <span class='font-bold'>scientific benefits of
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
+     data-ad-client="ca-pub-5622102322291070"
      data-ad-slot="6574140578">
 </ins>
 
