@@ -54,7 +54,10 @@ There are <span class='font-bold'>4 main attachment styles:</span>
 The first one, Secure Attachment, is <span class='font-bold'>what we strive for.</span> After having healed childhood trauma, limiting core beliefs and insecurities, this is where we would ultimately end up. 
 
 ## How is my attachment style determined? 
-To determine which attachment style you have, there are generally three dimensions that are being closely looked at. 
+
+It is important to note, that you have varying percentages of all 4 attachment styles. There is usually one that is predominant, but think of it as a pie chart. 
+
+To determine which attachment style you (predominantly) have, there are generally three dimensions that are being closely looked at. 
 
 <span class='font-bold'>The first one is closeness,</span> in other words, how comfortable you are being emotionally close to or intimate with other people. 
 
@@ -86,7 +89,7 @@ Some examples are:
 
 <a href="https://www.scienceofpeople.com/attachment-styles/"><ins>Science of People</ins></a>
 
-Take one or more of these tests to find out what attachment style you have at the moment! 
+Take one or more of these tests to find out what attachment style you predominantly have at the moment! 
 
 ## You are fine wherever you are
 No matter the result of this test, <span class='font-bold'>you are okay, no matter where you are right now</span>. Now that you know which attachment style you have, you can <span class='font-bold'>actively work on feeling more and more secure.</span>
