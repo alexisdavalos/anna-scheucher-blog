@@ -45,9 +45,9 @@ So you see, attachment styles have quite a big impact on our everyday lives, and
 There are <span class='font-bold'>4 main attachment styles:</span> 
 
 <ul class="list-disc">
-<li>Secure  
-<li>Avoidant
-<li>Anxious 
+<li> <a href="https://fullyholistic.com/posts/attachment-styles-secure"><ins>Secure</ins></a>   
+<li><a href="https://fullyholistic.com/posts/attachment-styles-avoidant"><ins>Avoidant</ins></a> 
+<li><a href="https://fullyholistic.com/posts/attachment-styles-anxious"><ins>Anxious</ins></a>  
 <li>Fearful 
 </ul>
 
