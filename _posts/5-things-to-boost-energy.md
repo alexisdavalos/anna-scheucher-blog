@@ -18,6 +18,7 @@ topics:
     - "tired"
     - "healthy"
     - "motivation" 
+    - "fatigue"
 ---
 
 We all know those energy slumps that tend to pop up in the middle of the day. Sometimes it's right after lunch, sometimes in the later afternoon, and sometimes both, or even more! 
