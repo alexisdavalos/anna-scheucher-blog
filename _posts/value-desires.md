@@ -40,11 +40,15 @@ Until one day it hit me: <span class='font-bold'>why wasn’t my love for coconu
 
 This opened up a rabbit hole that I couldn’t dismiss anymore. I realized the coconut chips weren’t an exception. 
 
-- In the car with friends, I’d <span class='font-bold'>put on the music they like,</span> not really thinking about putting on my own because they might not like it.
+<ul class="list-disc">
 
-- Going out to dinner with people I’d ask them about <span class='font-bold'>where they wanted to go</span> and not really mention what I really wanted to eat that day. 
+<li>In the car with friends, I’d <span class='font-bold'>put on the music they like,</span> not really thinking about putting on my own because they might not like it.
 
-- When watching a movie I’d <span class='font-bold'>settle for whatever everyone else wanted.</span> 
+<li>Going out to dinner with people I’d ask them about <span class='font-bold'>where they wanted to go</span> and not really mention what I really wanted to eat that day. 
+
+<li>When watching a movie I’d <span class='font-bold'>settle for whatever everyone else wanted.</span> 
+
+</ul>
 
 You get the picture. 
 
